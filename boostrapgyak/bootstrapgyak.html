@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      .idezet-doboz {
+        background: #6c63ff;
+        color: #fff;
+        border-radius: 1rem;
+        padding: 2rem;
+        min-height: 120px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-size: 1.2rem;
+      }
+    </style>
+  </head>
+  <body class="bg-light">
+    <div class="container min-vh-100 d-flex justify-content-center align-items-center">
+      <div class="w-100 w-md-50" style="max-width:600px;">
+        <div class="idezet-doboz shadow" id="quotes"></div>
+      </div>
+    </div>
+    <script>
+      const idezetek = [
+        "Az igazi erő csendben születik",
+        "A szeretet ott kezdődik, ahol a feltételek véget érnek",
+        "A legszebb dolgokat nem látni lehet, hanem érezni",
+        "Minden nap új esély arra, hogy jobb legyél",
+        "Az élet nem vár meg, élj most"
+      ];
+      let kovi = [];
+      let jelenlegiIndex = 0;
+
+      function kovetkezo() {
+        kovi.unshift(idezetek[jelenlegiIndex]);
+        if (kovi.length > 3) kovi.pop();
+        document.getElementById('quotes').innerHTML = kovi.map(q => `<div class="mb-2">"${q}"</div>`).join('');
+        jelenlegiIndex = (jelenlegiIndex + 1) % idezetek.length;
+      }
+
+      kovetkezo();
+      setInterval(kovetkezo, 5000);
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
