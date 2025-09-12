@@ -1,0 +1,8 @@
+PHP óra:
+scope=láthatóság, 
+-global: fuggvenyen kivul, csak fuggvenyen kivul. Ha fuggvenyen belul akarsz globalt, akkor global kulcsszo kell a valtozo ele, es a fuggvenyen kivuli hozod letre a valt
+-local: függvenyen belul hozzuk letre a valtozot, fuggvenyen belul van erteke, fugg. kivul nincs
+-static: felre tudjuk rakni a vált. erteket a kovi felhasznalasig, valt nev ele kell a static szo, fuggvenyen belul lehet haszn.
+
+kiiratas: echo es print
+szöveg köze beszuras csak "" köze.

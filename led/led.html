@@ -1,0 +1,90 @@
+<!--led mátrix szimuláció ahol a ledeket lehet programozni szin szerint hogy melyik led milyen szinu, állítható nagysagú -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Led Mátrix</title>
+</head>
+<body>
+    <style>
+        #matrixContainer{
+            margin-top: auto;
+            margin-left: auto;
+        }
+    </style>
+    <div>
+        
+        <label for="szin">Szín megadás</label>
+        <input id="szin" type="color">
+        <br>
+        <label>Hány pixel magas </label>
+        <input type="number" id="magas">
+        <br>
+        <label>Hány pixel széles</label>
+        <input type="number" id="szeles">
+        <br>
+        <button id="Keszit" onclick="Matrix()">Mátrix létrehozása</button>
+        <button onclick="Katt()">Szín állító</button>
+        <button onclick="betu()">A betű</button>
+    </div>
+    <div id="matrixContainer" style="margin-top:20px;"></div>
+    <script>
+        function Matrix(){
+            const container = document.getElementById('matrixContainer');
+            const magassag = document.getElementById("magas").value;
+            const szeles = document.getElementById("szeles").value;
+            container.innerHTML = '';
+            for(let i=0; i<32; i++){
+               const row = document.createElement('div'); 
+                row.style.display = 'flex';
+                for(let j=0; j<32; j++){
+                    const led = document.createElement('div');
+                    led.style.width = szeles + "px";
+                    led.style.height = magassag + "px";
+                    led.style.border =  "1px solid black";
+                    row.appendChild(led);
+                }
+                container.appendChild(row);
+            }
+        }
+        function Katt(){
+            const szin = document.getElementById("szin");
+            const ledek = document.querySelectorAll('#matrixContainer div div');
+            ledek.forEach(element => {
+                element.style.backgroundColor = szin.value;
+            });
+                
+
+            
+        }
+    function betu() {
+    const tomb=[
+                [0,1,1,1,1,0],
+                [1,0,0,0,0,1],
+                [1,0,0,0,0,1],
+                [1,1,1,1,1,1],
+                [1,0,0,0,0,1],
+                [1,0,0,0,0,1],
+                [1,0,0,0,0,1]
+    ];
+    const szin = document.getElementById("szin").value;
+    const ledek = document.querySelectorAll('#matrixContainer div div');
+    // Először minden LED-et töröljünk (feketére)
+    ledek.forEach(led => led.style.backgroundColor = "");
+    // Kirajzolás (csak a bal felső 7x7 mátrixban)
+    for(let i=0; i<tomb.length; i++){
+        for(let j=0; j<tomb[i].length; j++){
+            if(tomb[i][j] === 1){
+                // 32x32-es mátrixban: sor*i, oszlop*j
+                ledek[i*32 + j].style.backgroundColor = szin;
+            }
+        }
+    }
+}
+
+        
+    </script>
+</body>
+</html>
