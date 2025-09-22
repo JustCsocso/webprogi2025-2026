@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doga</title>
+</head>
+<style>
+    body{
+        background-color: azure;
+    }
+</style>
+<body>
+    <input type="text" id="bekeres">
+    <button onclick="Hozzaad()">Hozzáad</button>
+    <button onclick="">Növekvő</button>
+    <button onclick="">Csökkenő</button>
+    <button onclick="torles()">torles</button>
+    <p id="demo"></p>
+    <script>
+        let szo=document.getElementById("bekeres");
+        let tomb=[]
+        
+
+        function Hozzaad(){
+        
+            tomb.push(szo.value);
+            console.log(tomb)
+            /*
+            var specialChars = "!@#$^&%*()+=-[]\/{}|:<>?,.";
+            for(var i=0;i<tomb.length;i++)
+            {
+
+            }
+*/
+           
+            document.getElementById("demo").innerHTML = tomb;
+            
+            
+
+        }
+        function torles(){
+            tomb.pop(); 
+            document.getElementById("demo").innerHTML = tomb;
+}
+        
+    </script>
+</body>
+</html>

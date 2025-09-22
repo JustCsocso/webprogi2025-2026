@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <title>Lapozós cucc</title>
+  </head>
+
+  <body onload="init()">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-2 bg-primary"></div>
+        <div class="col-12 col-lg-8 container">
+          <nav aria-label="Page navigation example" class="row">
+            <ul class="pagination justify-content-center">
+              <li class="page-item">
+                <a class="page-link" href="#" onclick="ugras(-1)">Previous</a>
+              </li>
+              <li class="page-item">
+                <a class="page-link" href="#" onclick="ugras(1)">1</a>
+              </li>
+              <li class="page-item">
+                <a class="page-link" href="#" onclick="ugras(2)">2</a>
+              </li>
+              <li class="page-item">
+                <a class="page-link" href="#" onclick="ugras(3)">3</a>
+              </li>
+              <li class="page-item">
+                <a class="page-link" href="#" onclick="ugras(0)">Next</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="row" id="tartalom-1">
+            <div class="col-12">
+              <h1 class="text-center text-success">1. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-2">
+            <div class="col-12">
+              <h1 class="text-center text-success">2. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-3">
+            <div class="col-12">
+              <h1 class="text-center text-success">3. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-4">
+            <div class="col-12">
+              <h1 class="text-center text-success">4. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-5">
+            <div class="col-12">
+              <h1 class="text-center text-success">5. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-6">
+            <div class="col-12">
+              <h1 class="text-center text-success">6. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-7">
+            <div class="col-12">
+              <h1 class="text-center text-success">7. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-8">
+            <div class="col-12">
+              <h1 class="text-center text-success">8. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-9">
+            <div class="col-12">
+              <h1 class="text-center text-success">9. Tartalom</h1>
+            </div>
+          </div>
+          <div class="row" id="tartalom-10">
+            <div class="col-12">
+              <h1 class="text-center text-success">10. Tartalom</h1>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-2 bg-primary"></div>
+      </div>
+    </div>
+    <script>
+      function init() {
+        menuKeszit();
+      }
+
+      const taratlomDb = 10;
+      let aktualisTartalom = 1;
+      function ugras(oldalSzam) {
+        let menu = document.getElementsByClassName("pagination")[0];
+        menu.children[aktualisTartalom].classList.remove("active");
+        if (oldalSzam === -1) //előző gomb
+        {
+          if (aktualisTartalom > 1) {
+            for (let i = 1; i <= taratlomDb; i++) {
+              document.getElementById("tartalom-" + i).classList.add("d-none");
+            }
+            document
+              .getElementById("tartalom-" + (aktualisTartalom - 1))
+              .classList.remove("d-none");
+            aktualisTartalom--;
+          }
+        } else if (oldalSzam === 0)//következő gomb
+         {
+             if (aktualisTartalom < taratlomDb) {
+            for (let i = 1; i <= taratlomDb; i++) {
+              document.getElementById("tartalom-" + i).classList.add("d-none");
+            }
+            document
+              .getElementById("tartalom-" + (aktualisTartalom + 1))
+              .classList.remove("d-none");
+            aktualisTartalom++;
+          }
+
+        } else {
+          for (let i = 1; i <= taratlomDb; i++) {
+            document.getElementById("tartalom-" + i).classList.add("d-none");
+            document
+              .getElementById("tartalom-" + oldalSzam)
+              .classList.remove("d-none");
+          }
+          aktualisTartalom = oldalSzam;
+        }
+
+        menu = document.getElementsByClassName("pagination")[0];
+        menu.children[aktualisTartalom].classList.add("active");
+      }
+
+      function menuKeszit() {
+        let menu = document.getElementsByClassName("pagination")[0];
+        menu.innerHTML = "";
+       menu.appendChild(menuPont("Előző",-1));
+
+        for (let i = 1; i <= taratlomDb; i++) {
+          menu.appendChild(menuPont(i,i, aktualisTartalom==i));
+        }
+        menu.appendChild(menuPont("Következő",0));
+/*
+        elem = document.createElement("li");
+        elem.classList.add("page-item");
+        elem.setAttribute("draggable","false");
+        link = document.createElement("a");
+        link.classList.add("page-link");
+        link.href = "#";
+        link.setAttribute("draggable","false");
+        link.addEventListener("click", function () {
+          ugras(0);
+        });
+        link.innerHTML = "Következő";
+        elem.appendChild(link);
+        menu.appendChild(elem);
+    
+*/
+      }
+      function menuPont(szoveg,tartalomId,aktivMenu)
+      {
+        elem = document.createElement("li");
+        elem.classList.add("page-item");
+        if(aktivMenu){
+            elem.classList.add("active");
+        }
+        elem.setAttribute("draggable","false");
+        link = document.createElement("a");
+        link.classList.add("page-link");
+        link.href = "#";
+        link.setAttribute("draggable","false");
+        link.addEventListener("click", function () {
+          ugras(tartalomId);
+        });
+        link.innerHTML = szoveg;
+        elem.appendChild(link);
+        return elem;
+      }
+    </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
