@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    2.feladat <button onclick="feladat2()"></button><div id="feladat2"></div>
+
+    <script>
+        function feladat2(){
+            fetch("index.php", {
+            method:"POST",
+            headers:{"Content-Type":"application/json"},
+            body: JSON.stringify({feladat:"2"})
+        })
+        .then(r=>r.json())
+        .then(d=>{
+            document.getElementById("feladat2").innerHTML = d.kirr;
+        })}
+    </script>
+</body>
+</html>

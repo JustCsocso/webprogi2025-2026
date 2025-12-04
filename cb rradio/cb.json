@@ -1,0 +1,2289 @@
+﻿
+[
+{
+  "ora": 6,
+  "perc": 0,
+  "adasDb": 2,
+  "nev": "Laci"
+},
+{
+  "ora": 6,
+  "perc": 1,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 1,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 6,
+  "perc": 3,
+  "adasDb": 4,
+  "nev": "Tomi"
+},
+{
+  "ora": 6,
+  "perc": 7,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 7,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 6,
+  "perc": 8,
+  "adasDb": 1,
+  "nev": "Peti"
+},
+{
+  "ora": 6,
+  "perc": 8,
+  "adasDb": 4,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 8,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 6,
+  "perc": 10,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 6,
+  "perc": 11,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 6,
+  "perc": 11,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 13,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 6,
+  "perc": 17,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 20,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 20,
+  "adasDb": 2,
+  "nev": "Laci"
+},
+{
+  "ora": 6,
+  "perc": 21,
+  "adasDb": 1,
+  "nev": "Pityu"
+},
+{
+  "ora": 6,
+  "perc": 25,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 27,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 6,
+  "perc": 30,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 32,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 6,
+  "perc": 32,
+  "adasDb": 2,
+  "nev": "Gabi"
+},
+{
+  "ora": 6,
+  "perc": 33,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 6,
+  "perc": 35,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 6,
+  "perc": 35,
+  "adasDb": 3,
+  "nev": "Tibi"
+},
+{
+  "ora": 6,
+  "perc": 36,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 6,
+  "perc": 38,
+  "adasDb": 3,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 38,
+  "adasDb": 1,
+  "nev": "Tibi"
+},
+{
+  "ora": 6,
+  "perc": 40,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 6,
+  "perc": 42,
+  "adasDb": 3,
+  "nev": "Peti"
+},
+{
+  "ora": 6,
+  "perc": 42,
+  "adasDb": 4,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 43,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 6,
+  "perc": 46,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 6,
+  "perc": 47,
+  "adasDb": 4,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 48,
+  "adasDb": 3,
+  "nev": "Gyuri"
+},
+{
+  "ora": 6,
+  "perc": 49,
+  "adasDb": 4,
+  "nev": "Peti"
+},
+{
+  "ora": 6,
+  "perc": 50,
+  "adasDb": 1,
+  "nev": "Józsi"
+},
+{
+  "ora": 6,
+  "perc": 51,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 6,
+  "perc": 53,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 6,
+  "perc": 55,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 6,
+  "perc": 58,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 7,
+  "perc": 1,
+  "adasDb": 2,
+  "nev": "Feri"
+},
+{
+  "ora": 7,
+  "perc": 1,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 7,
+  "perc": 4,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 7,
+  "perc": 5,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 7,
+  "perc": 6,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 7,
+  "perc": 7,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 7,
+  "perc": 7,
+  "adasDb": 4,
+  "nev": "Bandi"
+},
+{
+  "ora": 7,
+  "perc": 10,
+  "adasDb": 1,
+  "nev": "Imi"
+},
+{
+  "ora": 7,
+  "perc": 10,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 7,
+  "perc": 10,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 7,
+  "perc": 12,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 7,
+  "perc": 16,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 7,
+  "perc": 16,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 7,
+  "perc": 19,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 7,
+  "perc": 19,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 7,
+  "perc": 20,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 7,
+  "perc": 20,
+  "adasDb": 3,
+  "nev": "Józsi"
+},
+{
+  "ora": 7,
+  "perc": 22,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 7,
+  "perc": 23,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 7,
+  "perc": 24,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 7,
+  "perc": 25,
+  "adasDb": 4,
+  "nev": "Zoli"
+},
+{
+  "ora": 7,
+  "perc": 27,
+  "adasDb": 2,
+  "nev": "Laci"
+},
+{
+  "ora": 7,
+  "perc": 28,
+  "adasDb": 1,
+  "nev": "Tibi"
+},
+{
+  "ora": 7,
+  "perc": 32,
+  "adasDb": 1,
+  "nev": "Zsolti"
+},
+{
+  "ora": 7,
+  "perc": 33,
+  "adasDb": 3,
+  "nev": "Peti"
+},
+{
+  "ora": 7,
+  "perc": 34,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 7,
+  "perc": 36,
+  "adasDb": 4,
+  "nev": "Zsombor"
+},
+{
+  "ora": 7,
+  "perc": 37,
+  "adasDb": 3,
+  "nev": "Pityu"
+},
+{
+  "ora": 7,
+  "perc": 37,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 7,
+  "perc": 38,
+  "adasDb": 4,
+  "nev": "Zsolti"
+},
+{
+  "ora": 7,
+  "perc": 38,
+  "adasDb": 2,
+  "nev": "Laci"
+},
+{
+  "ora": 7,
+  "perc": 39,
+  "adasDb": 4,
+  "nev": "Pityu"
+},
+{
+  "ora": 7,
+  "perc": 39,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 7,
+  "perc": 40,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 7,
+  "perc": 40,
+  "adasDb": 3,
+  "nev": "Laci"
+},
+{
+  "ora": 7,
+  "perc": 43,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 7,
+  "perc": 45,
+  "adasDb": 4,
+  "nev": "Gyuri"
+},
+{
+  "ora": 7,
+  "perc": 47,
+  "adasDb": 1,
+  "nev": "Józsi"
+},
+{
+  "ora": 7,
+  "perc": 48,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 7,
+  "perc": 48,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 7,
+  "perc": 49,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 7,
+  "perc": 50,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 7,
+  "perc": 50,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 7,
+  "perc": 50,
+  "adasDb": 3,
+  "nev": "Gyuri"
+},
+{
+  "ora": 7,
+  "perc": 52,
+  "adasDb": 4,
+  "nev": "Zsolti"
+},
+{
+  "ora": 7,
+  "perc": 53,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 7,
+  "perc": 55,
+  "adasDb": 4,
+  "nev": "Jani"
+},
+{
+  "ora": 7,
+  "perc": 56,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 7,
+  "perc": 56,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 7,
+  "perc": 56,
+  "adasDb": 4,
+  "nev": "Tibi"
+},
+{
+  "ora": 7,
+  "perc": 58,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 7,
+  "perc": 58,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 4,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 4,
+  "adasDb": 4,
+  "nev": "Jani"
+},
+{
+  "ora": 8,
+  "perc": 4,
+  "adasDb": 4,
+  "nev": "Zsombor"
+},
+{
+  "ora": 8,
+  "perc": 4,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 8,
+  "perc": 6,
+  "adasDb": 2,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 8,
+  "perc": 6,
+  "adasDb": 1,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 8,
+  "perc": 6,
+  "adasDb": 1,
+  "nev": "Tibi"
+},
+{
+  "ora": 8,
+  "perc": 9,
+  "adasDb": 4,
+  "nev": "Bandi"
+},
+{
+  "ora": 8,
+  "perc": 9,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 8,
+  "perc": 9,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 9,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 8,
+  "perc": 10,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 8,
+  "perc": 10,
+  "adasDb": 2,
+  "nev": "Lali"
+},
+{
+  "ora": 8,
+  "perc": 12,
+  "adasDb": 3,
+  "nev": "Pityu"
+},
+{
+  "ora": 8,
+  "perc": 12,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 13,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 8,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 8,
+  "perc": 14,
+  "adasDb": 2,
+  "nev": "Lali"
+},
+{
+  "ora": 8,
+  "perc": 16,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 19,
+  "adasDb": 3,
+  "nev": "Józsi"
+},
+{
+  "ora": 8,
+  "perc": 20,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 22,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 8,
+  "perc": 23,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 8,
+  "perc": 23,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 8,
+  "perc": 25,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 8,
+  "perc": 25,
+  "adasDb": 1,
+  "nev": "Imi"
+},
+{
+  "ora": 8,
+  "perc": 27,
+  "adasDb": 1,
+  "nev": "Imi"
+},
+{
+  "ora": 8,
+  "perc": 27,
+  "adasDb": 4,
+  "nev": "Pityu"
+},
+{
+  "ora": 8,
+  "perc": 27,
+  "adasDb": 4,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 28,
+  "adasDb": 2,
+  "nev": "Feri"
+},
+{
+  "ora": 8,
+  "perc": 28,
+  "adasDb": 4,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 28,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 8,
+  "perc": 31,
+  "adasDb": 3,
+  "nev": "Zsombor"
+},
+{
+  "ora": 8,
+  "perc": 32,
+  "adasDb": 2,
+  "nev": "Lali"
+},
+{
+  "ora": 8,
+  "perc": 33,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 8,
+  "perc": 33,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 33,
+  "adasDb": 3,
+  "nev": "Laci"
+},
+{
+  "ora": 8,
+  "perc": 34,
+  "adasDb": 3,
+  "nev": "Józsi"
+},
+{
+  "ora": 8,
+  "perc": 39,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 8,
+  "perc": 43,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 8,
+  "perc": 44,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 8,
+  "perc": 44,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 8,
+  "perc": 45,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 8,
+  "perc": 46,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 8,
+  "perc": 46,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 8,
+  "perc": 47,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 8,
+  "perc": 48,
+  "adasDb": 3,
+  "nev": "Zsolti"
+},
+{
+  "ora": 8,
+  "perc": 50,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 8,
+  "perc": 50,
+  "adasDb": 4,
+  "nev": "Bandi"
+},
+{
+  "ora": 8,
+  "perc": 54,
+  "adasDb": 4,
+  "nev": "Zsolti"
+},
+{
+  "ora": 9,
+  "perc": 3,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 9,
+  "perc": 4,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 9,
+  "perc": 5,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 6,
+  "adasDb": 2,
+  "nev": "Feri"
+},
+{
+  "ora": 9,
+  "perc": 6,
+  "adasDb": 1,
+  "nev": "Józsi"
+},
+{
+  "ora": 9,
+  "perc": 6,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 9,
+  "perc": 7,
+  "adasDb": 4,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 10,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 9,
+  "perc": 11,
+  "adasDb": 4,
+  "nev": "Gyuri"
+},
+{
+  "ora": 9,
+  "perc": 11,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 9,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Imi"
+},
+{
+  "ora": 9,
+  "perc": 16,
+  "adasDb": 2,
+  "nev": "Zsombor"
+},
+{
+  "ora": 9,
+  "perc": 17,
+  "adasDb": 1,
+  "nev": "Józsi"
+},
+{
+  "ora": 9,
+  "perc": 20,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 9,
+  "perc": 21,
+  "adasDb": 1,
+  "nev": "Laci"
+},
+{
+  "ora": 9,
+  "perc": 22,
+  "adasDb": 3,
+  "nev": "Gyuri"
+},
+{
+  "ora": 9,
+  "perc": 27,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 9,
+  "perc": 28,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 28,
+  "adasDb": 4,
+  "nev": "Feri"
+},
+{
+  "ora": 9,
+  "perc": 29,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 9,
+  "perc": 30,
+  "adasDb": 2,
+  "nev": "Zoli"
+},
+{
+  "ora": 9,
+  "perc": 31,
+  "adasDb": 2,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 32,
+  "adasDb": 4,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 9,
+  "perc": 34,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 9,
+  "perc": 34,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 9,
+  "perc": 36,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 9,
+  "perc": 38,
+  "adasDb": 4,
+  "nev": "Józsi"
+},
+{
+  "ora": 9,
+  "perc": 39,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 9,
+  "perc": 44,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 9,
+  "perc": 46,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 9,
+  "perc": 46,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 9,
+  "perc": 48,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 9,
+  "perc": 48,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 9,
+  "perc": 49,
+  "adasDb": 1,
+  "nev": "Peti"
+},
+{
+  "ora": 9,
+  "perc": 53,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 9,
+  "perc": 53,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 9,
+  "perc": 55,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 55,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 9,
+  "perc": 55,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 9,
+  "perc": 55,
+  "adasDb": 4,
+  "nev": "Sanyi"
+},
+{
+  "ora": 9,
+  "perc": 56,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 9,
+  "perc": 57,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 9,
+  "perc": 58,
+  "adasDb": 4,
+  "nev": "Zsombor"
+},
+{
+  "ora": 9,
+  "perc": 58,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 9,
+  "perc": 59,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 10,
+  "perc": 2,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 10,
+  "perc": 2,
+  "adasDb": 4,
+  "nev": "Gyuri"
+},
+{
+  "ora": 10,
+  "perc": 2,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 10,
+  "perc": 3,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 10,
+  "perc": 4,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 10,
+  "perc": 6,
+  "adasDb": 4,
+  "nev": "Peti"
+},
+{
+  "ora": 10,
+  "perc": 6,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 6,
+  "adasDb": 3,
+  "nev": "Tibi"
+},
+{
+  "ora": 10,
+  "perc": 6,
+  "adasDb": 4,
+  "nev": "Peti"
+},
+{
+  "ora": 10,
+  "perc": 7,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 10,
+  "perc": 7,
+  "adasDb": 3,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 10,
+  "perc": 8,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 10,
+  "perc": 8,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 8,
+  "adasDb": 2,
+  "nev": "Zsolti"
+},
+{
+  "ora": 10,
+  "perc": 11,
+  "adasDb": 4,
+  "nev": "Zsolti"
+},
+{
+  "ora": 10,
+  "perc": 12,
+  "adasDb": 2,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 10,
+  "perc": 13,
+  "adasDb": 1,
+  "nev": "Peti"
+},
+{
+  "ora": 10,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Zsombor"
+},
+{
+  "ora": 10,
+  "perc": 14,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 15,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 10,
+  "perc": 16,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 10,
+  "perc": 18,
+  "adasDb": 3,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 10,
+  "perc": 18,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 19,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 21,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 22,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 24,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 10,
+  "perc": 25,
+  "adasDb": 4,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 26,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 10,
+  "perc": 26,
+  "adasDb": 3,
+  "nev": "Zsolti"
+},
+{
+  "ora": 10,
+  "perc": 26,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 32,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 32,
+  "adasDb": 2,
+  "nev": "Zsolti"
+},
+{
+  "ora": 10,
+  "perc": 33,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 33,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 10,
+  "perc": 33,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 10,
+  "perc": 33,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 34,
+  "adasDb": 3,
+  "nev": "Laci"
+},
+{
+  "ora": 10,
+  "perc": 34,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 10,
+  "perc": 39,
+  "adasDb": 3,
+  "nev": "Laci"
+},
+{
+  "ora": 10,
+  "perc": 39,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 41,
+  "adasDb": 2,
+  "nev": "Zsolti"
+},
+{
+  "ora": 10,
+  "perc": 41,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 41,
+  "adasDb": 2,
+  "nev": "Zsombor"
+},
+{
+  "ora": 10,
+  "perc": 41,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 10,
+  "perc": 42,
+  "adasDb": 4,
+  "nev": "Zoli"
+},
+{
+  "ora": 10,
+  "perc": 44,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 10,
+  "perc": 45,
+  "adasDb": 4,
+  "nev": "Jani"
+},
+{
+  "ora": 10,
+  "perc": 45,
+  "adasDb": 2,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 10,
+  "perc": 46,
+  "adasDb": 4,
+  "nev": "Zsombor"
+},
+{
+  "ora": 10,
+  "perc": 51,
+  "adasDb": 4,
+  "nev": "Peti"
+},
+{
+  "ora": 10,
+  "perc": 51,
+  "adasDb": 2,
+  "nev": "Imi"
+},
+{
+  "ora": 10,
+  "perc": 52,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 53,
+  "adasDb": 2,
+  "nev": "Imi"
+},
+{
+  "ora": 10,
+  "perc": 53,
+  "adasDb": 2,
+  "nev": "Gabi"
+},
+{
+  "ora": 10,
+  "perc": 55,
+  "adasDb": 3,
+  "nev": "Pityu"
+},
+{
+  "ora": 10,
+  "perc": 58,
+  "adasDb": 1,
+  "nev": "Csabi"
+},
+{
+  "ora": 10,
+  "perc": 58,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 11,
+  "perc": 3,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 3,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 11,
+  "perc": 5,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 11,
+  "perc": 6,
+  "adasDb": 4,
+  "nev": "Tomi"
+},
+{
+  "ora": 11,
+  "perc": 6,
+  "adasDb": 4,
+  "nev": "Lali"
+},
+{
+  "ora": 11,
+  "perc": 10,
+  "adasDb": 2,
+  "nev": "Feri"
+},
+{
+  "ora": 11,
+  "perc": 10,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 11,
+  "perc": 10,
+  "adasDb": 1,
+  "nev": "Laci"
+},
+{
+  "ora": 11,
+  "perc": 10,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 11,
+  "perc": 11,
+  "adasDb": 4,
+  "nev": "Lali"
+},
+{
+  "ora": 11,
+  "perc": 13,
+  "adasDb": 2,
+  "nev": "Tomi"
+},
+{
+  "ora": 11,
+  "perc": 15,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 11,
+  "perc": 15,
+  "adasDb": 4,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 17,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 11,
+  "perc": 18,
+  "adasDb": 2,
+  "nev": "Imi"
+},
+{
+  "ora": 11,
+  "perc": 18,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 11,
+  "perc": 19,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 11,
+  "perc": 20,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 20,
+  "adasDb": 4,
+  "nev": "Gyuri"
+},
+{
+  "ora": 11,
+  "perc": 23,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 11,
+  "perc": 23,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 11,
+  "perc": 24,
+  "adasDb": 4,
+  "nev": "Laci"
+},
+{
+  "ora": 11,
+  "perc": 24,
+  "adasDb": 3,
+  "nev": "Peti"
+},
+{
+  "ora": 11,
+  "perc": 25,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 11,
+  "perc": 25,
+  "adasDb": 4,
+  "nev": "Zsombor"
+},
+{
+  "ora": 11,
+  "perc": 25,
+  "adasDb": 2,
+  "nev": "Zoli"
+},
+{
+  "ora": 11,
+  "perc": 27,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 11,
+  "perc": 27,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 11,
+  "perc": 28,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 11,
+  "perc": 28,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 11,
+  "perc": 34,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 11,
+  "perc": 35,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 11,
+  "perc": 37,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 37,
+  "adasDb": 1,
+  "nev": "Laci"
+},
+{
+  "ora": 11,
+  "perc": 38,
+  "adasDb": 4,
+  "nev": "Csabi"
+},
+{
+  "ora": 11,
+  "perc": 42,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 46,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 11,
+  "perc": 46,
+  "adasDb": 1,
+  "nev": "Jani"
+},
+{
+  "ora": 11,
+  "perc": 47,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 48,
+  "adasDb": 3,
+  "nev": "Zsolti"
+},
+{
+  "ora": 11,
+  "perc": 51,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 11,
+  "perc": 51,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 11,
+  "perc": 54,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 11,
+  "perc": 56,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 57,
+  "adasDb": 1,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 11,
+  "perc": 57,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 11,
+  "perc": 57,
+  "adasDb": 1,
+  "nev": "Gyuri"
+},
+{
+  "ora": 11,
+  "perc": 57,
+  "adasDb": 4,
+  "nev": "Sanyi"
+},
+{
+  "ora": 11,
+  "perc": 58,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 11,
+  "perc": 58,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 12,
+  "perc": 2,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 12,
+  "perc": 3,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 12,
+  "perc": 4,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 12,
+  "perc": 5,
+  "adasDb": 2,
+  "nev": "Józsi"
+},
+{
+  "ora": 12,
+  "perc": 7,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 12,
+  "perc": 7,
+  "adasDb": 1,
+  "nev": "Zsolti"
+},
+{
+  "ora": 12,
+  "perc": 8,
+  "adasDb": 1,
+  "nev": "Imi"
+},
+{
+  "ora": 12,
+  "perc": 12,
+  "adasDb": 3,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 12,
+  "perc": 12,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 12,
+  "perc": 13,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 12,
+  "perc": 13,
+  "adasDb": 3,
+  "nev": "Pityu"
+},
+{
+  "ora": 12,
+  "perc": 13,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 12,
+  "perc": 13,
+  "adasDb": 1,
+  "nev": "Laci"
+},
+{
+  "ora": 12,
+  "perc": 14,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 12,
+  "perc": 14,
+  "adasDb": 4,
+  "nev": "Gyuri"
+},
+{
+  "ora": 12,
+  "perc": 17,
+  "adasDb": 2,
+  "nev": "Gabi"
+},
+{
+  "ora": 12,
+  "perc": 17,
+  "adasDb": 4,
+  "nev": "Feri"
+},
+{
+  "ora": 12,
+  "perc": 18,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 12,
+  "perc": 18,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 12,
+  "perc": 19,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 12,
+  "perc": 25,
+  "adasDb": 1,
+  "nev": "Gyuri"
+},
+{
+  "ora": 12,
+  "perc": 25,
+  "adasDb": 4,
+  "nev": "Zoli"
+},
+{
+  "ora": 12,
+  "perc": 29,
+  "adasDb": 2,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 12,
+  "perc": 30,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 12,
+  "perc": 30,
+  "adasDb": 4,
+  "nev": "Laci"
+},
+{
+  "ora": 12,
+  "perc": 31,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 12,
+  "perc": 32,
+  "adasDb": 3,
+  "nev": "Feri"
+},
+{
+  "ora": 12,
+  "perc": 34,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 12,
+  "perc": 34,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 12,
+  "perc": 35,
+  "adasDb": 1,
+  "nev": "Tibi"
+},
+{
+  "ora": 12,
+  "perc": 36,
+  "adasDb": 4,
+  "nev": "Imi"
+},
+{
+  "ora": 12,
+  "perc": 37,
+  "adasDb": 2,
+  "nev": "Feri"
+},
+{
+  "ora": 12,
+  "perc": 37,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 12,
+  "perc": 39,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 12,
+  "perc": 40,
+  "adasDb": 3,
+  "nev": "Tomi"
+},
+{
+  "ora": 12,
+  "perc": 40,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 12,
+  "perc": 41,
+  "adasDb": 4,
+  "nev": "Jani"
+},
+{
+  "ora": 12,
+  "perc": 41,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 12,
+  "perc": 42,
+  "adasDb": 1,
+  "nev": "Sanyi"
+},
+{
+  "ora": 12,
+  "perc": 45,
+  "adasDb": 2,
+  "nev": "Csabi"
+},
+{
+  "ora": 12,
+  "perc": 48,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 12,
+  "perc": 48,
+  "adasDb": 4,
+  "nev": "Józsi"
+},
+{
+  "ora": 12,
+  "perc": 52,
+  "adasDb": 2,
+  "nev": "Imi"
+},
+{
+  "ora": 12,
+  "perc": 53,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 12,
+  "perc": 56,
+  "adasDb": 2,
+  "nev": "Lali"
+},
+{
+  "ora": 12,
+  "perc": 58,
+  "adasDb": 2,
+  "nev": "Bandi"
+},
+{
+  "ora": 12,
+  "perc": 59,
+  "adasDb": 2,
+  "nev": "Laci"
+},
+{
+  "ora": 13,
+  "perc": 1,
+  "adasDb": 4,
+  "nev": "Jani"
+},
+{
+  "ora": 13,
+  "perc": 1,
+  "adasDb": 1,
+  "nev": "Gabi"
+},
+{
+  "ora": 13,
+  "perc": 1,
+  "adasDb": 3,
+  "nev": "Lali"
+},
+{
+  "ora": 13,
+  "perc": 4,
+  "adasDb": 2,
+  "nev": "Sanyi"
+},
+{
+  "ora": 13,
+  "perc": 5,
+  "adasDb": 4,
+  "nev": "Feri"
+},
+{
+  "ora": 13,
+  "perc": 5,
+  "adasDb": 1,
+  "nev": "Peti"
+},
+{
+  "ora": 13,
+  "perc": 10,
+  "adasDb": 2,
+  "nev": "Gyuri"
+},
+{
+  "ora": 13,
+  "perc": 11,
+  "adasDb": 3,
+  "nev": "Sanyi"
+},
+{
+  "ora": 13,
+  "perc": 15,
+  "adasDb": 1,
+  "nev": "Tomi"
+},
+{
+  "ora": 13,
+  "perc": 15,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 13,
+  "perc": 17,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 13,
+  "perc": 19,
+  "adasDb": 1,
+  "nev": "Zoli"
+},
+{
+  "ora": 13,
+  "perc": 20,
+  "adasDb": 4,
+  "nev": "Csabi"
+},
+{
+  "ora": 13,
+  "perc": 21,
+  "adasDb": 1,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 13,
+  "perc": 22,
+  "adasDb": 3,
+  "nev": "Zoli"
+},
+{
+  "ora": 13,
+  "perc": 23,
+  "adasDb": 1,
+  "nev": "Bandi"
+},
+{
+  "ora": 13,
+  "perc": 23,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 13,
+  "perc": 24,
+  "adasDb": 3,
+  "nev": "Tibi"
+},
+{
+  "ora": 13,
+  "perc": 24,
+  "adasDb": 2,
+  "nev": "Jani"
+},
+{
+  "ora": 13,
+  "perc": 26,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 13,
+  "perc": 26,
+  "adasDb": 4,
+  "nev": "Gyuszi"
+},
+{
+  "ora": 13,
+  "perc": 27,
+  "adasDb": 2,
+  "nev": "Zsombor"
+},
+{
+  "ora": 13,
+  "perc": 27,
+  "adasDb": 3,
+  "nev": "Imi"
+},
+{
+  "ora": 13,
+  "perc": 33,
+  "adasDb": 4,
+  "nev": "Gabi"
+},
+{
+  "ora": 13,
+  "perc": 33,
+  "adasDb": 1,
+  "nev": "Feri"
+},
+{
+  "ora": 13,
+  "perc": 33,
+  "adasDb": 3,
+  "nev": "Zsolti"
+},
+{
+  "ora": 13,
+  "perc": 34,
+  "adasDb": 2,
+  "nev": "Pityu"
+},
+{
+  "ora": 13,
+  "perc": 34,
+  "adasDb": 1,
+  "nev": "Lali"
+},
+{
+  "ora": 13,
+  "perc": 35,
+  "adasDb": 3,
+  "nev": "Gabi"
+},
+{
+  "ora": 13,
+  "perc": 37,
+  "adasDb": 1,
+  "nev": "Zsombor"
+},
+{
+  "ora": 13,
+  "perc": 38,
+  "adasDb": 3,
+  "nev": "Bandi"
+},
+{
+  "ora": 13,
+  "perc": 44,
+  "adasDb": 3,
+  "nev": "Jani"
+},
+{
+  "ora": 13,
+  "perc": 47,
+  "adasDb": 2,
+  "nev": "Peti"
+},
+{
+  "ora": 13,
+  "perc": 55,
+  "adasDb": 2,
+  "nev": "Tibi"
+},
+{
+  "ora": 13,
+  "perc": 55,
+  "adasDb": 3,
+  "nev": "Csabi"
+},
+{
+  "ora": 13,
+  "perc": 57,
+  "adasDb": 1,
+  "nev": "Gyuri"
+}
+]

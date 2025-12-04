@@ -1,0 +1,112 @@
+
+
+<!DOCTYPE html>
+
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>Latin Tánciskola</title>
+</head>
+<body>
+
+<h2>Tancrend feltöltése</h2>
+<input type="file" id="fileInput" accept=".txt">
+<button onclick="feltolt()">Feltöltés</button>
+<div id="uploadStatus"></div>
+
+<h3>3. feladat</h3>
+<button onclick="feladat3()">Nyomd</button>
+<div id="feladat3"></div>
+
+<h3>4. feladat</h3>
+<button onclick="feladat4()">Nyomd</button>
+<div id="feladat4"></div>
+
+<h3>5. feladat</h3>
+<input type="text" id="tancNev" placeholder="Tánc neve pl. samba">
+<button onclick="feladat5()">Nyomd</button>
+<div id="feladat5"></div>
+
+<h3>6. feladat</h3>
+<button onclick="feladat6()">Nyomd</button>
+<div id="feladat6"></div>
+
+<h3>7. feladat</h3>
+<button onclick="feladat7()">Nyomd</button>
+<div id="feladat7"></div>
+
+<script>
+function feltolt() {
+    const fileInput = document.getElementById("fileInput");
+    const file = fileInput.files[0];
+    if (!file) { alert("Válassz ki egy tancrend.txt fájlt!"); return; }
+    const formData = new FormData();
+    formData.append("file", file);
+
+    fetch("index.php", { method:"POST", body:formData })
+    .then(resp=>resp.text())
+    .then(txt=>{ document.getElementById("uploadStatus").innerHTML = txt; })
+    .catch(err=>{ console.error(err); });
+}
+
+function feladat3() {
+    fetch("index.php", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({feladat:"3"})
+    })
+    .then(r=>r.json())
+    .then(d=>{ document.getElementById("feladat3").innerHTML = d.ossz; });
+}
+
+function feladat4() {
+    fetch("index.php", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({feladat:"4"})
+    })
+    .then(r=>r.json())
+    .then(d=>{
+        document.getElementById("feladat4").innerHTML = "Első tánc: "+d.elsoTanc+"<br>Utolsó tánc: "+d.utolsoTanc;
+    });
+}
+
+function feladat5() {
+    const tancNev = document.getElementById("tancNev").value.trim();
+    if (!tancNev) { alert("Adj meg egy tánc nevet!"); return; }
+    fetch("index.php", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({feladat:"5", tancNeve:tancNev})
+    })
+    .then(r=>r.json())
+    .then(d=>{ document.getElementById("feladat5").innerHTML = d.eredmeny; });
+}
+
+function feladat6() {
+    fetch("index.php", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({feladat:"6"})
+    })
+    .then(r=>r.json())
+    .then(d=>{
+        document.getElementById("feladat6").innerHTML = "Lányok: "+d.lanyok.join(", ")+"<br>Fiúk: "+d.fiuk.join(", ");
+    });
+}
+
+function feladat7() {
+    fetch("index.php", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({feladat:"7"})
+    })
+    .then(r=>r.json())
+    .then(d=>{
+        document.getElementById("feladat7").innerHTML = d.eredmeny;
+    });
+}
+</script>
+
+</body>
+</html>

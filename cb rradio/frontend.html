@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>CB Rádió</title>
+</head>
+<body onload="init()">
+
+<p>3. feladat: <span id="feladat3"></span></p>
+<p>4. feladat: <span id="feladat4"></span></p>
+<p>5. feladat: <span id="feladat5"><input type="text" id="sofor"><button onclick="feladat5()"></button></span></p>
+
+<script>
+let adatok = [];
+
+function init() {
+    fetch("cb.json")
+    .then(resp => resp.json())
+    .then(json => {
+        adatok = json;
+        vegrehajtFeladatAuto();
+    })
+    .catch(err => console.error('Hiba a JSON beolvasásakor:', err));
+}
+
+function vegrehajtFeladatAuto() {
+    fetch('index.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ adatok })
+    })
+    .then(resp => resp.json())
+    .then(data => {
+        document.getElementById("feladat3").innerText = data.osszdarab;
+        document.getElementById("feladat4").innerText = data.van4Adas;
+    })
+    .catch(err => console.error('Hiba a fetch során:', err));
+}
+function feladat5(){
+    let sofor=document.getElementById("sofor").value;
+   
+    //console.log(sofor);
+    fetch('index.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+            adatok, 
+            keresett: sofor  })
+    })
+    .then(resp => resp.json())
+    .then(data => {
+        document.getElementById("feladat5").innerText = data.talalatDb+" ennyiszer radiozott";
+    })
+}
+
+
+</script>
+
+</body>
+</html>

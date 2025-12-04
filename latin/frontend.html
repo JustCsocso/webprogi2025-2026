@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>Latin Tánciskola</title>
+</head>
+<body>
+    2.feladat <button onclick="feladat2()">Nyomd meg</button><div id="feladat2"></div>
+    3.feladat <button onclick="feladat3()">Nyomd meg</button><div id="feladat3"></div>
+    4.feladat <button onclick="feladat4()">Nyomd meg</button><div id="feladat4"></div>
+    5.feladat <input type="text" id="valami"> <button onclick="feladat5()">Nyomd meg</button><div id="feladat5"></div>
+    <script>
+        function feladat2() {
+            fetch("index.php", {
+                method:"POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({feladat:"2"})
+            })
+            .then(r => r.json())
+            .then(d => {
+                document.getElementById("feladat2").innerHTML ="elso:"+ d.elso +"utso: "+ d.utso;
+            });
+        }
+        function feladat3() {
+            fetch("index.php", {
+                method:"POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({feladat:"3"})
+            })
+            .then(r => r.json())
+            .then(d => {
+                document.getElementById("feladat3").innerHTML = d.ossz;
+            });
+        }
+        function feladat4() {
+            fetch("index.php", {
+                method:"POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({feladat:"4"})
+            })
+            .then(r => r.json())
+            .then(d => {
+                document.getElementById("feladat4").innerHTML ="Vilma a következöket tancolta: " + d.vilma;
+            });
+        }
+        function feladat5() {
+            
+           
+            fetch("index.php", {
+                method:"POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({ feladat: "5", tancNeve: document.getElementById("valami").value })
+            })
+            .then(r => r.json())
+            .then(d => {
+                document.getElementById("feladat5").innerHTML = d.kiir;
+            });
+        }
+    </script>
+
+
+
+</body>
+</html>

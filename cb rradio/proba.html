@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>CB Rádió</title>
+</head>
+<body onload="init()">
+
+<h2>CB Rádió feladatok</h2>
+
+<p>Keress sofőrt: <input type="text" id="soforInput" placeholder="Sofőr neve"></p>
+
+<p>3. feladat: <span id="fel3">---</span></p>
+<p>4. feladat: <span id="fel4">---</span></p>
+<p>5. feladat: <span id="fel5">---</span> <button onclick="vegrehajtFeladat5()">Mutat</button></p>
+<p>8. feladat: <span id="fel8">---</span></p>
+<p>9. feladat: <span id="fel9">---</span></p>
+
+<script>
+let adatok = [];
+
+// Inicializálás: cb.txt betöltése és 3.,4.,8.,9. feladat automatikus számítása
+function init() {
+    fetch('cb.txt')
+    .then(resp => resp.text())
+    .then(txt => {
+        const sorok = txt.split('\n').filter(s => s.trim() !== '');
+        sorok.shift(); // első sor a mezőnevek
+        adatok = sorok.map(line => {
+            const [ora, perc, adasDb, nev] = line.split(';');
+            return { ora: parseInt(ora), perc: parseInt(perc), adasDb: parseInt(adasDb), nev:nev.trim() };
+        });
+
+        // Küldés PHP-nek minden adat nélkül, csak a statikus feladatokhoz
+        vegrehajtFeladatAuto();
+    });
+}
+
+// Automatikusan kiszámoló feladatok: 3,4,8,9
+function vegrehajtFeladatAuto() {
+    fetch('megoldas.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ adatok, keresettSofor: '' })
+    })
+    .then(resp => resp.json())
+    .then(data => {
+        document.getElementById("fel3").innerText = data.bejegyzesekSzama;
+        document.getElementById("fel4").innerText = data.van4Adas ? "Van 4 adás" : "Nincs 4 adás";
+        document.getElementById("fel8").innerText = `Sofőrök száma: ${data.soforokSzama}`;
+        document.getElementById("fel9").innerText = `Legtöbb adást indító sofőr: ${data.legtobbSofor}, összesen: ${data.legtobbAdas}`;
+    })
+    .catch(err => console.error('Hiba a fetch során:', err));
+}
+
+// 5. feladat gombra: csak a bevitt sofőr neve kell
+function vegrehajtFeladat5() {
+    const sofor = document.getElementById('soforInput').value.trim();
+
+    fetch('megoldas.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ adatok, keresettSofor: sofor })
+    })
+    .then(resp => resp.json())
+    .then(data => {
+        document.getElementById("fel5").innerText = data.soforLetezik 
+            ? `${sofor} összes hívása: ${data.soforAdasSzam}`
+            : "Nincs ilyen nevű sofőr!";
+    })
+    .catch(err => console.error('Hiba a fetch során:', err));
+}
+</script>
+
+</body>
+</html>

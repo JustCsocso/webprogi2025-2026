@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label for="">3.feladat: </label>
+    <input type="button" value="Bekuldes" onclick="feladat3()">
+    <div id="eredmeny3"></div>
+    <label for="">4.feladat: </label>
+    <input type="button" value="Bekuldes" onclick="feladat4()">
+    <div id="eredmeny4"></div>
+    <label for="">5.feladat: </label>
+    <input type="text" name="nev" id="nev">
+    <input type="button" value="Bekuldes" onclick="feladat5()">
+    <div id="eredmeny5"></div>
+
+    <script>
+        let adatok = []
+        fetch("cb.json")
+            .then((res) => res.json())
+            .then((json) => adatok = json);
+            
+        function feladat3()
+        {
+            document.getElementById("eredmeny3").innerHTML = adatok.length;
+        }
+
+        function feladat4()
+        {
+            let talalat = adatok.find(e =>e.perc===1 && e.adas === 4);
+
+        if(talalat) {
+            document.getElementById("eredmeny4").innerHTML = "Található olyan bejegyzés, ahol 1 percen belül pontosan 4 adást indított a sofőr.";
+        } else {
+            document.getElementById("eredmeny4").innerHTML = "Nincs ilyen bejegyzés a naplóban.";
+        }
+            
+        }
+
+        function feladat5(){
+            let nev = document.getElementById("soforNev").value.trim();
+
+            // Szűrjük a napló bejegyzéseket a megadott sofőrre
+            let soforBejegyzesek = adatok.filter(obj => obj.nev === nev);
+
+            if(soforBejegyzesek.length === 0) {
+                document.getElementById("eredmeny5").innerHTML = "Nincs ilyen nevű sofőr!";
+            } else {
+                // Összeszámoljuk az adások számát
+                let osszesAdas = soforBejegyzesek.reduce((osszeg, obj) => osszeg + obj.adas, 0);
+                document.getElementById("eredmeny5").innerHTML = `${nev} összesen ${adas} hívást indított a naplóban.`;
+            }
+        }
+        
+    </script>
+</body>
+</html>

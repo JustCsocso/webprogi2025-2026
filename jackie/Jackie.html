@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <label for="">3.feladat: </label>
+    <input type="button" value="Bekuldes" onclick="feladat3()">
+    <div id="eredmeny3"></div>
+    <label for="">4.feladat: </label>
+    <input type="button" value="Bekuldes" onclick="feladat4()">
+    <div id="eredmeny4"></div>
+    <label for="">5.feladat: </label>
+    <input type="button" value="Bekuldes" onclick="feladat5()">
+    <div id="eredmeny5"></div>
+    <script>
+        let adatok=[];
+        fetch("jackie.json")
+            .then((res)=>res.json())
+            .then((json)=>adatok=json);
+
+        function feladat3(){
+            document.getElementById("eredmeny3").innerHTML = adatok.length;
+        }
+        //console.log(adatok);
+        function feladat4() {
+    // legnagyobb verseny érték
+        let maxVerseny = Math.max(...adatok.map(e => e.verseny));
+
+        // kiválasztjuk az(oka)t az évek(ek)et, ahol ez volt
+        let maxEv = adatok.filter(e => e.verseny === maxVerseny);
+
+        //console.log("Legtöbb verseny:", maxVerseny);
+        //console.log("Év(ek):", maxEv.map(e => e.ev).join(", "));
+
+        document.getElementById("eredmeny4").innerHTML = `A legtöbb verseny (${maxVerseny}) ${maxEv.map(e => e.ev).join(", ")} évben volt.`;
+        }
+
+        function feladat5(){
+            let hetven=[];
+            let hatvan=[];
+            
+        }
+    </script>
+    
+</body>
+</html>

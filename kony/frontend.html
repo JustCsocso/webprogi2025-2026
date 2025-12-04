@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>Könyvkiadás</title>
+<style>
+    body { font-family: Arial; margin: 20px; }
+    div { margin: 10px 0; }
+    input { padding: 5px; margin-right: 10px; }
+    button { padding: 5px 15px; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<h2>Könyvkiadás</h2>
+
+<!-- 2. feladat -->
+<div>
+    2. feladat: 
+    <input type="text" id="szerzoInput" placeholder="Szerző neve">
+    <button onclick="feladat2()">Keres</button>
+    <div id="feladat2"></div>
+</div>
+
+<!-- 3. feladat -->
+<div>
+    3. feladat: <button onclick="feladat3()">Legnagyobb példányszám</button>
+    <div id="feladat3"></div>
+</div>
+
+<!-- 4. feladat -->
+<div>
+    4. feladat: <button onclick="feladat4()">Első nagy példányszámú külföldi</button>
+    <div id="feladat4"></div>
+</div>
+
+<!-- 5. feladat -->
+<div>
+    5. feladat: <button onclick="feladat5()">Statisztika</button>
+    <div id="feladat5"></div>
+</div>
+
+<!-- 6. feladat -->
+<div>
+    6. feladat: <button onclick="feladat6()">Újrakiadott könyvek</button>
+    <div id="feladat6"></div>
+</div>
+
+<script>
+function feladat2() {
+    let szerzo = document.getElementById("szerzoInput").value.trim();
+    if (!szerzo) {
+        alert("Adj meg egy szerző nevet!");
+        return;
+    }
+    
+    fetch("index.php", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({feladat: "2", szerzo: szerzo})
+    })
+    .then(resp => resp.json())
+    .then(d => { 
+        document.getElementById("feladat2").innerText = d.kiir; 
+    });
+}
+
+function feladat3() {
+    fetch("index.php", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({feladat: "3"})
+    })
+    .then(resp => resp.json())
+    .then(d => { 
+        document.getElementById("feladat3").innerText = d.kiir; 
+    });
+}
+
+function feladat4() {
+    fetch("index.php", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({feladat: "4"})
+    })
+    .then(resp => resp.json())
+    .then(d => { 
+        document.getElementById("feladat4").innerText = d.kiir; 
+    });
+}
+
+function feladat5() {
+    fetch("index.php", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({feladat: "5"})
+    })
+    .then(resp => resp.json())
+    .then(d => { 
+        document.getElementById("feladat5").innerText = d.kiir; 
+    });
+}
+
+function feladat6() {
+    fetch("index.php", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({feladat: "6"})
+    })
+    .then(resp => resp.json())
+    .then(d => { 
+        document.getElementById("feladat6").innerText = d.kiir; 
+    });
+}
+</script>
+
+</body>
+</html>

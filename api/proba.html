@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Todo Lista</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+
+
+        <div class="container bg-secondary">
+            <div class="row p-3">
+                <div class="col-12 bg-success text-center p-1"><h1>ToDo lista</h1></div>
+            </div>
+
+            <div class="row p-3 bg-primary">
+                <div class="col-11">
+                    <input type="text" class="form-control" id="szoveg" />
+                </div>
+                <div class="col-1 text-center">
+                    <button class="btn btn-light" onclick="hozzaAdGomb()">+</button>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-11">
+                    <ul class="list-group" id="lista"></ul>
+                </div>
+            </div>
+        </div>
+
+
+
+<script>
+function hozzaAd(sor) {
+    return `
+      <div class="container">
+        <div class="row bg-light">
+          <div class="col-9">${sor}</div>
+          <div class="col-1"><button class="btn btn-sm">✔️</button></div>
+          <div class="col-1"><button class="btn btn-sm">🗑️</button></div>
+          <div class="col-1"><button class="btn btn-sm">✏️</button></div>
+        </div>
+      </div>
+    `;
+}
+
+function sorBetolt() {
+    fetch("api.php?path=todo")
+        .then((x) => x.json())
+        .then((adatok) => {
+            adatok.forEach((todo) => {
+                document.getElementById("lista").innerHTML += hozzaAd(todo.szoveg);
+            });
+        });
+}
+
+function hozzaAdGomb() {
+    let szoveg = document.getElementById("szoveg").value;
+    let json = {
+        memebrid: "valami",
+        feladat: szoveg,
+    };
+
+    fetch("api.php?path=todo", {
+        method: "POST",
+        body: JSON.stringify(json),
+        headers: { "Content-Type": "application/json" }
+    })
+    .then((x) => x.json())
+    .then((adatok) => {
+        // opcionális: frissítheted a listát
+        document.getElementById("lista").innerHTML += hozzaAd(szoveg);
+    });
+}
+
+window.onload = function() {
+    sorBetolt();
+};
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5128 @@
+﻿[
+{
+    "nev": "Lewis Hamilton",
+    "szulev": 1985.01.07,
+    "nemzetiseg": "brit",
+    "rajtszam": 44
+
+},
+{
+    "nev": "Nick Heidfeld",
+    "szulev": 1977.05.10,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Nico Rosberg",
+    "szulev": 1985.06.27,
+    "nemzetiseg": "német",
+    "rajtszam": 6
+
+},
+{
+    "nev": "Fernando Alonso",
+    "szulev": 1981.07.29,
+    "nemzetiseg": "spanyol",
+    "rajtszam": 14
+
+},
+{
+    "nev": "Heikki Kovalainen",
+    "szulev": 1981.10.19,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Kazuki Nakajima",
+    "szulev": 1985.01.11,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Sébastien Bourdais",
+    "szulev": 1979.02.28,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Kimi Räikkönen",
+    "szulev": 1979.10.17,
+    "nemzetiseg": "finn",
+    "rajtszam": 7
+
+},
+{
+    "nev": "Robert Kubica",
+    "szulev": 1984.12.07,
+    "nemzetiseg": "lengyel",
+    "rajtszam": 88
+
+},
+{
+    "nev": "Timo Glock",
+    "szulev": 1982.03.18,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Takuma Sato",
+    "szulev": 1977.01.28,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Nelson Piquet Jr",
+    "szulev": 1985.07.25,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Felipe Massa",
+    "szulev": 1981.04.25,
+    "nemzetiseg": "brazíl",
+    "rajtszam": 19
+
+},
+{
+    "nev": "David Coulthard",
+    "szulev": 1971.03.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jarno Trulli",
+    "szulev": 1974.07.13,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Adrian Sutil",
+    "szulev": 1983.01.11,
+    "nemzetiseg": "német",
+    "rajtszam": 99
+
+},
+{
+    "nev": "Mark Webber",
+    "szulev": 1976.08.27,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Jenson Button",
+    "szulev": 1980.01.19,
+    "nemzetiseg": "brit",
+    "rajtszam": 22
+
+},
+{
+    "nev": "Anthony Davidson",
+    "szulev": 1979.04.18,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Sebastian Vettel",
+    "szulev": 1987.07.03,
+    "nemzetiseg": "német",
+    "rajtszam": 5
+
+},
+{
+    "nev": "Giancarlo Fisichella",
+    "szulev": 1973.01.14,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Rubens Barrichello",
+    "szulev": 1972.05.23,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Ralf Schumacher",
+    "szulev": 1975.06.30,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Vitantonio Liuzzi",
+    "szulev": 1980.08.06,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Alexander Wurz",
+    "szulev": 1974.02.15,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Scott Speed",
+    "szulev": 1983.01.24,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Christijan Albers",
+    "szulev": 1979.04.16,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Markus Winkelhock",
+    "szulev": 1980.06.13,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Sakon Yamamoto",
+    "szulev": 1982.07.09,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Michael Schumacher",
+    "szulev": 1969.01.03,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Juan Pablo Montoya",
+    "szulev": 1975.09.20,
+    "nemzetiseg": "kolumbiai"
+
+},
+{
+    "nev": "Christian Klien",
+    "szulev": 1983.02.07,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Tiago Monteiro",
+    "szulev": 1976.07.24,
+    "nemzetiseg": "portugál"
+
+},
+{
+    "nev": "Yuji Ide",
+    "szulev": 1975.01.21,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Jacques Villeneuve",
+    "szulev": 1971.04.09,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Franck Montagny",
+    "szulev": 1978.01.05,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Pedro de la Rosa",
+    "szulev": 1971.02.24,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Robert Doornbos",
+    "szulev": 1981.09.23,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Narain Karthikeyan",
+    "szulev": 1977.01.14,
+    "nemzetiseg": "indiai"
+
+},
+{
+    "nev": "Patrick Friesacher",
+    "szulev": 1980.09.26,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Ricardo Zonta",
+    "szulev": 1976.03.23,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Antônio Pizzonia",
+    "szulev": 1980.09.11,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Cristiano da Matta",
+    "szulev": 1973.09.19,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Olivier Panis",
+    "szulev": 1966.09.02,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Giorgio Pantano",
+    "szulev": 1979.02.04,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gianmaria Bruni",
+    "szulev": 1981.05.30,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Zsolt Baumgartner",
+    "szulev": 1981.01.01,
+    "nemzetiseg": "magyar"
+
+},
+{
+    "nev": "Marc Gené",
+    "szulev": 1974.03.29,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Heinz-Harald Frentzen",
+    "szulev": 1967.05.18,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Jos Verstappen",
+    "szulev": 1972.03.04,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Justin Wilson",
+    "szulev": 1978.07.31,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ralph Firman",
+    "szulev": 1975.05.20,
+    "nemzetiseg": "ír"
+
+},
+{
+    "nev": "Nicolas Kiesa",
+    "szulev": 1978.03.03,
+    "nemzetiseg": "dán"
+
+},
+{
+    "nev": "Luciano Burti",
+    "szulev": 1975.03.05,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Jean Alesi",
+    "szulev": 1964.06.11,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Eddie Irvine",
+    "szulev": 1965.11.10,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mika Häkkinen",
+    "szulev": 1968.09.28,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Tarso Marques",
+    "szulev": 1976.01.19,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Enrique Bernoldi",
+    "szulev": 1978.10.19,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Gastón Mazzacane",
+    "szulev": 1975.05.08,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Tomáš Enge",
+    "szulev": 1976.09.11,
+    "nemzetiseg": "cseh"
+
+},
+{
+    "nev": "Alex Yoong",
+    "szulev": 1976.07.20,
+    "nemzetiseg": "maláj"
+
+},
+{
+    "nev": "Mika Salo",
+    "szulev": 1966.11.30,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Pedro Diniz",
+    "szulev": 1970.05.22,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Johnny Herbert",
+    "szulev": 1964.06.25,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Allan McNish",
+    "szulev": 1969.12.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Sébastien Buemi",
+    "szulev": 1988.10.31,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Toranosuke Takagi",
+    "szulev": 1974.02.12,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Luca Badoer",
+    "szulev": 1971.01.25,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Alessandro Zanardi",
+    "szulev": 1966.10.23,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Damon Hill",
+    "szulev": 1960.09.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Stéphane Sarrazin",
+    "szulev": 1975.11.02,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Ricardo Rosset",
+    "szulev": 1968.07.27,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Esteban Tuero",
+    "szulev": 1978.04.22,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Shinji Nakano",
+    "szulev": 1971.04.01,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Jan Magnussen",
+    "szulev": 1973.07.04,
+    "nemzetiseg": "dán"
+
+},
+{
+    "nev": "Gerhard Berger",
+    "szulev": 1959.08.27,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Nicola Larini",
+    "szulev": 1964.03.19,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Ukyo Katayama",
+    "szulev": 1963.05.29,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Vincenzo Sospiri",
+    "szulev": 1966.10.07,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gianni Morbidelli",
+    "szulev": 1968.01.13,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Norberto Fontana",
+    "szulev": 1975.01.20,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Pedro Lamy",
+    "szulev": 1972.03.20,
+    "nemzetiseg": "portugál"
+
+},
+{
+    "nev": "Martin Brundle",
+    "szulev": 1959.06.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Andrea Montermini",
+    "szulev": 1964.05.30,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Giovanni Lavaggi",
+    "szulev": 1958.02.18,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Mark Blundell",
+    "szulev": 1966.04.08,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Aguri Suzuki",
+    "szulev": 1960.09.08,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Taki Inoue",
+    "szulev": 1963.09.05,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Roberto Moreno",
+    "szulev": 1959.02.11,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Karl Wendlinger",
+    "szulev": 1968.12.20,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Bertrand Gachot",
+    "szulev": 1962.12.23,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Domenico Schiattarella",
+    "szulev": 1967.11.17,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Pierluigi Martini",
+    "szulev": 1961.04.23,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Nigel Mansell",
+    "szulev": 1953.08.08,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jean-Christophe Boullion",
+    "szulev": 1969.12.27,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Massimiliano Papis",
+    "szulev": 1969.10.03,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jean-Denis Délétraz",
+    "szulev": 1963.10.01,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Gabriele Tarquini",
+    "szulev": 1962.03.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Érik Comas",
+    "szulev": 1963.09.28,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "David Brabham",
+    "szulev": 1965.09.05,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Ayrton Senna",
+    "szulev": 1960.03.21,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Éric Bernard",
+    "szulev": 1964.08.24,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Christian Fittipaldi",
+    "szulev": 1971.01.18,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Michele Alboreto",
+    "szulev": 1956.12.23,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Olivier Beretta",
+    "szulev": 1969.11.23,
+    "nemzetiseg": "monacói "
+
+},
+{
+    "nev": "Roland Ratzenberger",
+    "szulev": 1960.07.04,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Paul Belmondo",
+    "szulev": 1963.04.23,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jyrki Järvilehto",
+    "szulev": 1966.01.31,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Andrea de Cesaris",
+    "szulev": 1959.05.31,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jean-Marc Gounon",
+    "szulev": 1963.01.01,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Philippe Alliot",
+    "szulev": 1954.07.27,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Philippe Adams",
+    "szulev": 1969.11.19,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Yannick Dalmas",
+    "szulev": 1961.07.28,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Hideki Noda",
+    "szulev": 1969.03.07,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Franck Lagorce",
+    "szulev": 1968.09.01,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Alain Prost",
+    "szulev": 1955.02.24,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Derek Warwick",
+    "szulev": 1954.08.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Riccardo Patrese",
+    "szulev": 1954.04.17,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Fabrizio Barbazza",
+    "szulev": 1963.04.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Michael Andretti",
+    "szulev": 1962.10.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ivan Capelli",
+    "szulev": 1963.05.24,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Thierry Boutsen",
+    "szulev": 1957.07.13,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Marco Apicella",
+    "szulev": 1965.10.07,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Emanuele Naspetti",
+    "szulev": 1968.02.24,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Toshio Suzuki",
+    "szulev": 1955.03.10,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Maurício Gugelmin",
+    "szulev": 1963.04.20,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Eric van de Poele",
+    "szulev": 1961.09.30,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Olivier Grouillard",
+    "szulev": 1958.09.02,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Andrea Chiesa",
+    "szulev": 1964.05.06,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Stefano Modena",
+    "szulev": 1963.05.12,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Giovanna Amati",
+    "szulev": 1959.07.20,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Alex Caffi",
+    "szulev": 1964.03.18,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Enrico Bertaggia",
+    "szulev": 1964.09.19,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Perry McCarthy",
+    "szulev": 1961.03.03,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jan Lammers",
+    "szulev": 1956.06.02,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Nelson Piquet",
+    "szulev": 1952.08.17,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Satoru Nakajima",
+    "szulev": 1953.02.23,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Emanuele Pirro",
+    "szulev": 1962.01.12,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Stefan Johansson",
+    "szulev": 1956.09.08,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Julian Bailey",
+    "szulev": 1961.10.09,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Pedro Chaves",
+    "szulev": 1965.02.27,
+    "nemzetiseg": "portugál"
+
+},
+{
+    "nev": "Michael Bartels",
+    "szulev": 1968.03.08,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Naoki Hattori",
+    "szulev": 1966.06.13,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Alessandro Nannini",
+    "szulev": 1959.07.07,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bernd Schneider",
+    "szulev": 1964.07.20,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Paolo Barilla",
+    "szulev": 1961.04.20,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gregor Foitek",
+    "szulev": 1965.03.27,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Claudio Langes",
+    "szulev": 1960.07.20,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gary Brabham",
+    "szulev": 1961.03.29,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Martin Donnelly",
+    "szulev": 1964.03.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bruno Giacomelli",
+    "szulev": 1952.09.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jaime Alguersuari",
+    "szulev": 1990.03.23,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Romain Grosjean",
+    "szulev": 1986.04.17,
+    "nemzetiseg": "francia",
+    "rajtszam": 8
+
+},
+{
+    "nev": "Kamui Kobayashi",
+    "szulev": 1986.09.13,
+    "nemzetiseg": "japán",
+    "rajtszam": 10
+
+},
+{
+    "nev": "Jonathan Palmer",
+    "szulev": 1956.11.07,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Christian Danner",
+    "szulev": 1958.04.04,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Eddie Cheever",
+    "szulev": 1958.01.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Luis Pérez-Sala",
+    "szulev": 1959.05.15,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Piercarlo Ghinzani",
+    "szulev": 1952.01.16,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Volker Weidler",
+    "szulev": 1962.03.18,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Pierre-Henri Raphanel",
+    "szulev": 1961.05.27,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "René Arnoux",
+    "szulev": 1948.07.04,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Joachim Winkelhock",
+    "szulev": 1960.10.24,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Oscar Larrauri",
+    "szulev": 1954.08.19,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Philippe Streiff",
+    "szulev": 1955.06.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Adrián Campos",
+    "szulev": 1960.06.17,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Jean-Louis Schlesser",
+    "szulev": 1948.09.12,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Pascal Fabre",
+    "szulev": 1960.01.09,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Teo Fabi",
+    "szulev": 1955.03.09,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Franco Forini",
+    "szulev": 1958.09.22,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Jacques Laffite",
+    "szulev": 1943.11.21,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Elio de Angelis",
+    "szulev": 1958.03.26,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Johnny Dumfries",
+    "szulev": 1958.04.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Patrick Tambay",
+    "szulev": 1949.06.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Marc Surer",
+    "szulev": 1951.09.18,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Keke Rosberg",
+    "szulev": 1948.12.06,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Alan Jones",
+    "szulev": 1946.11.02,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Huub Rothengatter",
+    "szulev": 1954.10.08,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Allen Berg",
+    "szulev": 1961.08.01,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Manfred Winkelhock",
+    "szulev": 1951.10.06,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Niki Lauda",
+    "szulev": 1949.02.22,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "François Hesnault",
+    "szulev": 1956.12.30,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Mauro Baldi",
+    "szulev": 1954.01.31,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Stefan Bellof",
+    "szulev": 1957.11.20,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Kenny Acheson",
+    "szulev": 1957.11.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John Watson",
+    "szulev": 1946.05.04,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Johnny Cecotto",
+    "szulev": 1956.01.25,
+    "nemzetiseg": "venezuelai"
+
+},
+{
+    "nev": "Jo Gartner",
+    "szulev": 1954.01.24,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Corrado Fabi",
+    "szulev": 1961.04.12,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Mike Thackwell",
+    "szulev": 1961.03.30,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Chico Serra",
+    "szulev": 1957.02.03,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Danny Sullivan",
+    "szulev": 1950.03.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Eliseo Salazar",
+    "szulev": 1954.11.14,
+    "nemzetiseg": "chilei"
+
+},
+{
+    "nev": "Roberto Guerrero",
+    "szulev": 1958.11.16,
+    "nemzetiseg": "kolumbiai"
+
+},
+{
+    "nev": "Raul Boesel",
+    "szulev": 1957.12.04,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Jean-Pierre Jarier",
+    "szulev": 1946.07.10,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jacques Villeneuve Sr",
+    "szulev": 1953.11.04,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Carlos Reutemann",
+    "szulev": 1942.04.12,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Jochen Mass",
+    "szulev": 1946.09.30,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Slim Borgudd",
+    "szulev": 1946.11.25,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Didier Pironi",
+    "szulev": 1952.03.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Gilles Villeneuve",
+    "szulev": 1950.01.18,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Riccardo Paletti",
+    "szulev": 1958.06.15,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Brian Henton",
+    "szulev": 1946.09.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Derek Daly",
+    "szulev": 1953.03.11,
+    "nemzetiseg": "ír"
+
+},
+{
+    "nev": "Mario Andretti",
+    "szulev": 1940.02.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Emilio de Villota",
+    "szulev": 1946.07.26,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Geoff Lees",
+    "szulev": 1951.05.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Tommy Byrne",
+    "szulev": 1958.05.06,
+    "nemzetiseg": "ír"
+
+},
+{
+    "nev": "Rupert Keegan",
+    "szulev": 1955.02.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Hector Rebaque",
+    "szulev": 1956.02.05,
+    "nemzetiseg": "mexikói"
+
+},
+{
+    "nev": "Beppe Gabbiani",
+    "szulev": 1957.01.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Kevin Cogan",
+    "szulev": 1956.03.31,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Miguel Ángel Guerra",
+    "szulev": 1953.08.31,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Siegfried Stohr",
+    "szulev": 1952.10.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Ricardo Zunino",
+    "szulev": 1949.04.13,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Ricardo Londono",
+    "szulev": 1949.08.08,
+    "nemzetiseg": "kolumbiai"
+
+},
+{
+    "nev": "Jean-Pierre Jabouille",
+    "szulev": 1942.10.01,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Giorgio Francia",
+    "szulev": 1947.11.08,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Patrick Depailler",
+    "szulev": 1944.08.09,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jody Scheckter",
+    "szulev": 1950.01.29,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Clay Regazzoni",
+    "szulev": 1939.09.05,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Emerson Fittipaldi",
+    "szulev": 1946.12.12,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Dave Kennedy",
+    "szulev": 1953.01.15,
+    "nemzetiseg": "ír"
+
+},
+{
+    "nev": "Stephen South",
+    "szulev": 1952.02.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Tiff Needell",
+    "szulev": 1951.10.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Desiré Wilson",
+    "szulev": 1953.11.26,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Harald Ertl",
+    "szulev": 1948.08.31,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Vittorio Brambilla",
+    "szulev": 1937.11.11,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "James Hunt",
+    "szulev": 1947.08.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Arturo Merzario",
+    "szulev": 1943.03.11,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Hans-Joachim Stuck",
+    "szulev": 1951.01.01,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Gianfranco Brancatelli",
+    "szulev": 1950.01.18,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jacky Ickx",
+    "szulev": 1945.01.01,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Patrick Gaillard",
+    "szulev": 1952.02.12,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Alex Ribeiro",
+    "szulev": 1948.11.07,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Ronnie Peterson",
+    "szulev": 1944.02.14,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Brett Lunger",
+    "szulev": 1945.11.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Danny Ongais",
+    "szulev": 1942.05.21,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Lamberto Leoni",
+    "szulev": 1953.05.24,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Divina Galica",
+    "szulev": 1944.08.13,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Rolf Stommelen",
+    "szulev": 1943.07.11,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Alberto Colombo",
+    "szulev": 1946.02.23,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Tony Trimmer",
+    "szulev": 1943.01.24,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Hans Binder",
+    "szulev": 1948.06.12,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Michael Bleekemolen",
+    "szulev": 1949.10.02,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Carlo Franchi",
+    "szulev": 1938.01.01,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bobby Rahal",
+    "szulev": 1953.01.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Carlos Pace",
+    "szulev": 1944.10.06,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Ian Scheckter",
+    "szulev": 1947.08.22,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Tom Pryce",
+    "szulev": 1949.06.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ingo Hoffmann",
+    "szulev": 1953.02.28,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Renzo Zorzi",
+    "szulev": 1946.12.12,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gunnar Nilsson",
+    "szulev": 1948.11.20,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Larry Perkins",
+    "szulev": 1950.03.18,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Boy Lunger",
+    "szulev": 1949.05.03,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Patrick Neve",
+    "szulev": 1949.10.13,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "David Purley",
+    "szulev": 1945.01.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Conny Andersson",
+    "szulev": 1939.12.28,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Bernard de Dryver",
+    "szulev": 1952.09.19,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Jackie Oliver",
+    "szulev": 1942.08.14,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mikko Kozarowitzky",
+    "szulev": 1948.05.17,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Andy Sutcliffe",
+    "szulev": 1947.05.09,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Guy Edwards",
+    "szulev": 1942.12.30,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Brian McGuire",
+    "szulev": 1945.12.13,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Vern Schuppan",
+    "szulev": 1943.03.19,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Hans Heyer",
+    "szulev": 1943.03.16,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Teddy Pilette",
+    "szulev": 1942.07.26,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Ian Ashley",
+    "szulev": 1947.10.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Loris Kessel",
+    "szulev": 1950.04.01,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Kunimitsu Takahashi",
+    "szulev": 1940.01.29,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Kazuyoshi Hoshino",
+    "szulev": 1947.07.01,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Noritake Takahara",
+    "szulev": 1951.06.06,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Lella Lombardi",
+    "szulev": 1941.03.26,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bob Evans",
+    "szulev": 1947.06.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Michel Leclere",
+    "szulev": 1946.03.18,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Chris Amon",
+    "szulev": 1943.07.20,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Emilio Zapico",
+    "szulev": 1944.05.27,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Henri Pescarolo",
+    "szulev": 1942.09.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jac Nelleman",
+    "szulev": 1944.04.19,
+    "nemzetiseg": "dán"
+
+},
+{
+    "nev": "Damien Magee",
+    "szulev": 1945.11.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mike Wilds",
+    "szulev": 1946.01.07,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alessandro Pesenti-Rossi",
+    "szulev": 1942.08.31,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Otto Stuppacher",
+    "szulev": 1947.03.03,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Warwick Brown",
+    "szulev": 1949.12.24,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Masahiro Hasemi",
+    "szulev": 1945.11.13,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "Mark Donohue",
+    "szulev": 1937.03.18,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Graham Hill",
+    "szulev": 1929.02.15,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Wilson Fittipaldi",
+    "szulev": 1943.12.25,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Guy Tunmer",
+    "szulev": 1948.12.01,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Eddie Keizan",
+    "szulev": 1944.09.12,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Dave Charlton",
+    "szulev": 1936.10.27,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Tony Brise",
+    "szulev": 1952.03.28,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Roelof Wunderink",
+    "szulev": 1948.12.12,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "François Migault",
+    "szulev": 1944.12.04,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Torsten Palm",
+    "szulev": 1947.07.23,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Gijs van Lennep",
+    "szulev": 1942.03.16,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Hiroshi Fushida",
+    "szulev": 1946.03.10,
+    "nemzetiseg": "japán"
+
+},
+{
+    "nev": "John Nicholson",
+    "szulev": 1941.10.06,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Dave Morgan",
+    "szulev": 1944.08.07,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jim Crawford",
+    "szulev": 1948.02.13,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jo Vonlanthen",
+    "szulev": 1942.05.31,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Denny Hulme",
+    "szulev": 1936.06.18,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Mike Hailwood",
+    "szulev": 1940.04.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jean-Pierre Beltoise",
+    "szulev": 1937.04.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Howden Ganley",
+    "szulev": 1941.12.24,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Richard Robarts",
+    "szulev": 1944.09.22,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Peter Revson",
+    "szulev": 1939.02.27,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Paddy Driver",
+    "szulev": 1934.05.13,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Tom Belso",
+    "szulev": 1942.08.27,
+    "nemzetiseg": "dán"
+
+},
+{
+    "nev": "Brian Redman",
+    "szulev": 1937.03.09,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Rikky von Opel",
+    "szulev": 1947.10.14,
+    "nemzetiseg": "lichtensteini"
+
+},
+{
+    "nev": "Tim Schenken",
+    "szulev": 1943.09.26,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Gérard Larrousse",
+    "szulev": 1940.05.23,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Leo Kinnunen",
+    "szulev": 1943.08.05,
+    "nemzetiseg": "finn"
+
+},
+{
+    "nev": "Reine Wisell",
+    "szulev": 1941.09.30,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "Bertil Roos",
+    "szulev": 1943.10.12,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "José Dolhem",
+    "szulev": 1944.04.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Peter Gethin",
+    "szulev": 1940.02.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Derek Bell",
+    "szulev": 1941.10.31,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "David Hobbs",
+    "szulev": 1939.06.09,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Dieter Quester",
+    "szulev": 1939.05.30,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Helmuth Koinigg",
+    "szulev": 1948.11.03,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Carlo Facetti",
+    "szulev": 1935.06.26,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Eppie Wietzes",
+    "szulev": 1938.05.28,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "François Cevert",
+    "szulev": 1944.02.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jackie Stewart",
+    "szulev": 1939.06.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mike Beuttler",
+    "szulev": 1940.04.13,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Nanni Galli",
+    "szulev": 1940.10.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Luiz Bueno",
+    "szulev": 1937.01.16,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "George Follmer",
+    "szulev": 1934.01.27,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Andrea de Adamich",
+    "szulev": 1941.10.03,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jackie Pretorius",
+    "szulev": 1934.11.22,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Roger Williamson",
+    "szulev": 1948.02.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Graham McRae",
+    "szulev": 1940.03.05,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Helmut Marko",
+    "szulev": 1943.04.27,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "David Walker",
+    "szulev": 1941.06.10,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Alex Soler-Roig",
+    "szulev": 1932.10.29,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "John Love",
+    "szulev": 1924.12.07,
+    "nemzetiseg": "rodéziai"
+
+},
+{
+    "nev": "John Surtees",
+    "szulev": 1934.02.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Skip Barber",
+    "szulev": 1936.11.16,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Brack",
+    "szulev": 1935.12.26,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Sam Posey",
+    "szulev": 1944.05.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Pedro Rodríguez",
+    "szulev": 1940.01.18,
+    "nemzetiseg": "mexikói"
+
+},
+{
+    "nev": "Jo Siffert",
+    "szulev": 1936.07.07,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Jo Bonnier",
+    "szulev": 1930.01.31,
+    "nemzetiseg": "svéd"
+
+},
+{
+    "nev": "François Mazet",
+    "szulev": 1943.02.24,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Max Jean",
+    "szulev": 1943.07.27,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Vic Elford",
+    "szulev": 1935.06.10,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Silvio Moser",
+    "szulev": 1941.04.24,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "George Eaton",
+    "szulev": 1945.11.12,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Pete Lovely",
+    "szulev": 1926.04.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Chris Craft",
+    "szulev": 1939.11.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John Cannon",
+    "szulev": 1933.06.21,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Jack Brabham",
+    "szulev": 1926.04.02,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "John Miles",
+    "szulev": 1943.06.14,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jochen Rindt",
+    "szulev": 1942.04.18,
+    "nemzetiseg": "osztrák"
+
+},
+{
+    "nev": "Johnny Servoz-Gavin",
+    "szulev": 1942.01.18,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Bruce McLaren",
+    "szulev": 1937.08.30,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Piers Courage",
+    "szulev": 1942.05.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Peter de Klerk",
+    "szulev": 1935.03.16,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Ignazio Giunti",
+    "szulev": 1941.08.30,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Dan Gurney",
+    "szulev": 1931.04.13,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Hubert Hahne",
+    "szulev": 1935.03.28,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Gus Hutchison",
+    "szulev": 1937.04.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Peter Westbury",
+    "szulev": 1938.05.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Sam Tingle",
+    "szulev": 1921.08.24,
+    "nemzetiseg": "rodéziai"
+
+},
+{
+    "nev": "Basil van Rooyen",
+    "szulev": 1939.04.19,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Richard Attwood",
+    "szulev": 1940.04.04,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Al Pease",
+    "szulev": 1921.10.15,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "John Cordts",
+    "szulev": 1935.07.23,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Jim Clark",
+    "szulev": 1936.03.04,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mike Spence",
+    "szulev": 1936.12.30,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ludovico Scarfiotti",
+    "szulev": 1933.10.18,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Lucien Bianchi",
+    "szulev": 1934.11.10,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Jo Schlesser",
+    "szulev": 1928.05.18,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Robin Widdows",
+    "szulev": 1942.05.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Kurt Ahrens",
+    "szulev": 1940.04.19,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Frank Gardner",
+    "szulev": 1930.10.01,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Bobby Unser",
+    "szulev": 1934.02.20,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Moisés Solana",
+    "szulev": 1935.12.26,
+    "nemzetiseg": "mexikói"
+
+},
+{
+    "nev": "Bob Anderson",
+    "szulev": 1931.05.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Luki Botha",
+    "szulev": 1930.01.16,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Lorenzo Bandini",
+    "szulev": 1935.12.21,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Richie Ginther",
+    "szulev": 1930.08.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mike Parkes",
+    "szulev": 1931.09.24,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Chris Irwin",
+    "szulev": 1942.06.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Guy Ligier",
+    "szulev": 1930.07.12,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Alan Rees",
+    "szulev": 1938.01.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Brian Hart",
+    "szulev": 1936.09.07,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mike Fisher",
+    "szulev": 1943.03.13,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Tom Jones",
+    "szulev": 1943.04.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Giancarlo Baghetti",
+    "szulev": 1934.12.25,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jonathan Williams",
+    "szulev": 1942.10.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bob Bondurant",
+    "szulev": 1933.04.27,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Peter Arundell",
+    "szulev": 1933.11.08,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Vic Wilson",
+    "szulev": 1931.04.14,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John Taylor",
+    "szulev": 1933.03.23,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Chris Lawrence",
+    "szulev": 1933.07.27,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Trevor Taylor",
+    "szulev": 1936.12.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Giacomo Russo",
+    "szulev": 1937.10.23,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Phil Hill",
+    "szulev": 1927.04.20,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Innes Ireland",
+    "szulev": 1930.06.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ronnie Bucknum",
+    "szulev": 1936.04.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Paul Hawkins",
+    "szulev": 1937.10.12,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "David Prophet",
+    "szulev": 1937.10.09,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Tony Maggs",
+    "szulev": 1937.02.09,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Trevor Blokdyk",
+    "szulev": 1935.11.30,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Neville Lederle",
+    "szulev": 1938.09.25,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Doug Serrurier",
+    "szulev": 1920.12.09,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Brausch Niemann",
+    "szulev": 1939.01.07,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Ernie Pieterse",
+    "szulev": 1938.07.04,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Clive Puzey",
+    "szulev": 1941.07.11,
+    "nemzetiseg": "rodéziai"
+
+},
+{
+    "nev": "Ray Reed",
+    "szulev": 1932.04.30,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "David Clapham",
+    "szulev": 1931.05.18,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Alex Blignaut",
+    "szulev": 1932.11.30,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Masten Gregory",
+    "szulev": 1932.02.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "John Rhodes",
+    "szulev": 1927.08.18,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ian Raby",
+    "szulev": 1921.09.22,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alan Rollinson",
+    "szulev": 1943.05.15,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Brian Gubby",
+    "szulev": 1934.04.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Gerhard Mitter",
+    "szulev": 1935.08.30,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Roberto Bussinello",
+    "szulev": 1927.10.04,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Nino Vaccarella",
+    "szulev": 1933.03.04,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Giorgio Bassi",
+    "szulev": 1934.01.20,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Maurice Trintignant",
+    "szulev": 1917.10.30,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Bernard Collomb",
+    "szulev": 1930.10.07,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "André Pilette",
+    "szulev": 1918.10.06,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Carel Godin de Beaufort",
+    "szulev": 1934.04.10,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Edgar Barth",
+    "szulev": 1917.01.26,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Mário de Araújo Cabral",
+    "szulev": 1934.01.15,
+    "nemzetiseg": "portugál"
+
+},
+{
+    "nev": "Walt Hansgen",
+    "szulev": 1919.10.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Hap Sharp",
+    "szulev": 1928.01.01,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Willy Mairesse",
+    "szulev": 1928.10.01,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "John Campbell-Jones",
+    "szulev": 1930.01.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ian Burgess",
+    "szulev": 1930.07.06,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Tony Settember",
+    "szulev": 1926.07.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Nasif Estéfano",
+    "szulev": 1932.11.18,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Jim Hall",
+    "szulev": 1935.07.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Tim Parnell",
+    "szulev": 1932.06.25,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Kurt Kuhnke",
+    "szulev": 1910.04.30,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Ernesto Brambilla",
+    "szulev": 1934.01.31,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Roberto Lippi",
+    "szulev": 1926.10.17,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Günther Seiffert",
+    "szulev": 1937.10.18,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Carlo Abate",
+    "szulev": 1932.07.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Gaetano Starrabba",
+    "szulev": 1932.12.03,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Peter Broeker",
+    "szulev": 1926.05.15,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Rodger Ward",
+    "szulev": 1921.01.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ernie de Vos",
+    "szulev": 1941.07.01,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Frank Dochnal",
+    "szulev": 1920.10.08,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Thomas Monarch",
+    "szulev": 1945.09.03,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Pierre Gasly",
+    "szulev": 1996.02.07,
+    "nemzetiseg": "francia",
+    "rajtszam": 10
+
+},
+{
+    "nev": "Jackie Lewis",
+    "szulev": 1936.11.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ricardo Rodríguez",
+    "szulev": 1942.02.14,
+    "nemzetiseg": "mexikói"
+
+},
+{
+    "nev": "Wolfgang Seidel",
+    "szulev": 1926.07.04,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Roy Salvadori",
+    "szulev": 1922.05.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ben Pon",
+    "szulev": 1936.12.09,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Rob Slotemaker",
+    "szulev": 1929.06.13,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Tony Marsh",
+    "szulev": 1931.07.20,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Gerry Ashmore",
+    "szulev": 1936.07.25,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Heinz Schiller",
+    "szulev": 1930.01.25,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Colin Davis",
+    "szulev": 1933.07.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jay Chamberlain",
+    "szulev": 1925.12.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Tony Shelly",
+    "szulev": 1937.02.02,
+    "nemzetiseg": "új-zélandi"
+
+},
+{
+    "nev": "Keith Greene",
+    "szulev": 1938.01.05,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Heini Walter",
+    "szulev": 1927.07.28,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Ernesto Prinoth",
+    "szulev": 1923.04.15,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Roger Penske",
+    "szulev": 1937.02.20,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Rob Schroeder",
+    "szulev": 1926.05.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Timmy Mayer",
+    "szulev": 1938.02.22,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bruce Johnstone",
+    "szulev": 1937.01.30,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Mike Harris",
+    "szulev": 1939.05.25,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Gary Hocking",
+    "szulev": 1937.09.30,
+    "nemzetiseg": "rodéziai"
+
+},
+{
+    "nev": "Syd van der Vyver",
+    "szulev": 1920.06.01,
+    "nemzetiseg": "dél-afrikai"
+
+},
+{
+    "nev": "Stirling Moss",
+    "szulev": 1929.09.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Wolfgang von Trips",
+    "szulev": 1928.05.04,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Cliff Allison",
+    "szulev": 1932.02.08,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Hans Herrmann",
+    "szulev": 1928.02.23,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Tony Brooks",
+    "szulev": 1932.02.25,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Michael May",
+    "szulev": 1934.08.18,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Henry Taylor",
+    "szulev": 1932.12.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Olivier Gendebien",
+    "szulev": 1924.01.12,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Giorgio Scarlatti",
+    "szulev": 1921.10.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Brian Naylor",
+    "szulev": 1923.03.24,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Juan Manuel Bordeu",
+    "szulev": 1934.01.28,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Jack Fairman",
+    "szulev": 1913.03.15,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Massimo Natili",
+    "szulev": 1935.07.28,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Peter Monteverdi",
+    "szulev": 1934.06.07,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Renato Pirocchi",
+    "szulev": 1933.03.26,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Geoff Duke",
+    "szulev": 1923.03.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alfonso Thiele",
+    "szulev": 1920.04.05,
+    "nemzetiseg": "amerikai-olasz"
+
+},
+{
+    "nev": "Menato Boffa",
+    "szulev": 1930.01.04,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Peter Ryan",
+    "szulev": 1940.06.10,
+    "nemzetiseg": "kanadai"
+
+},
+{
+    "nev": "Lloyd Ruby",
+    "szulev": 1928.01.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ken Miles",
+    "szulev": 1918.11.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Carlos Menditeguy",
+    "szulev": 1914.08.10,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Alberto Rodriguez Larreta",
+    "szulev": 1934.01.14,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "José Froilán González",
+    "szulev": 1922.10.05,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Roberto Bonomi",
+    "szulev": 1919.09.30,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Gino Munaron",
+    "szulev": 1928.04.02,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Harry Schell",
+    "szulev": 1921.06.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Alan Stacey",
+    "szulev": 1933.08.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ettore Chimeri",
+    "szulev": 1921.06.04,
+    "nemzetiseg": "venezuelai"
+
+},
+{
+    "nev": "Antonio Creus",
+    "szulev": 1924.10.28,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Chris Bristow",
+    "szulev": 1937.12.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bruce Halford",
+    "szulev": 1931.05.18,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Chuck Daigh",
+    "szulev": 1923.11.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Lance Reventlow",
+    "szulev": 1936.02.24,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jim Rathmann",
+    "szulev": 1928.07.16,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Paul Goldsmith",
+    "szulev": 1925.10.02,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Don Branson",
+    "szulev": 1920.06.02,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnny Thomson",
+    "szulev": 1922.04.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Eddie Johnson",
+    "szulev": 1919.02.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bob Veith",
+    "szulev": 1926.11.01,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bud Tingelstad",
+    "szulev": 1928.04.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bob Christie",
+    "szulev": 1924.04.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Red Amick",
+    "szulev": 1929.01.19,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Duane Carter",
+    "szulev": 1913.05.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Homeier",
+    "szulev": 1918.08.31,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Gene Hartley",
+    "szulev": 1926.01.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Chuck Stevenson",
+    "szulev": 1919.10.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bobby Grim",
+    "szulev": 1924.09.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Shorty Templeman",
+    "szulev": 1919.08.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jim Hurtubise",
+    "szulev": 1932.12.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jimmy Bryan",
+    "szulev": 1926.01.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Troy Ruttman",
+    "szulev": 1930.03.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Eddie Sachs",
+    "szulev": 1927.05.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Don Freeland",
+    "szulev": 1925.03.25,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Tony Bettenhausen",
+    "szulev": 1916.09.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Wayne Weiler",
+    "szulev": 1934.12.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Anthony Foyt",
+    "szulev": 1935.01.16,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Eddie Russo",
+    "szulev": 1925.11.19,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnny Boyd",
+    "szulev": 1926.08.19,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Gene Force",
+    "szulev": 1916.06.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jim McWithey",
+    "szulev": 1927.07.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Len Sutton",
+    "szulev": 1925.08.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Dick Rathmann",
+    "szulev": 1924.01.06,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Al Herman",
+    "szulev": 1927.03.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Dempsey Wilson",
+    "szulev": 1927.03.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mike Taylor",
+    "szulev": 1934.04.24,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ron Flockhart",
+    "szulev": 1923.06.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "David Piper",
+    "szulev": 1930.12.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Giulio Cabianca",
+    "szulev": 1923.02.19,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Piero Drogo",
+    "szulev": 1926.08.08,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Fred Gamble",
+    "szulev": 1932.03.17,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Arthur Owen",
+    "szulev": 1915.03.23,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Horace Gould",
+    "szulev": 1918.09.20,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bob Drake",
+    "szulev": 1919.12.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ivor Bueb",
+    "szulev": 1923.06.06,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alain de Changy",
+    "szulev": 1922.02.05,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Maria de Filippis",
+    "szulev": 1926.11.11,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Jean Lucienbonnet",
+    "szulev": 1923.01.07,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "André Testut",
+    "szulev": 1926.04.13,
+    "nemzetiseg": "monacói "
+
+},
+{
+    "nev": "Jean Behra",
+    "szulev": 1921.02.16,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Paul Russo",
+    "szulev": 1914.04.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jimmy Daywalt",
+    "szulev": 1924.08.28,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Chuck Arnold",
+    "szulev": 1926.05.30,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Al Keller",
+    "szulev": 1920.04.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Pat Flaherty",
+    "szulev": 1926.01.06,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Cheesbourg",
+    "szulev": 1927.06.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ray Crawford",
+    "szulev": 1915.10.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jack Turner",
+    "szulev": 1920.02.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Chuck Weyant",
+    "szulev": 1923.04.03,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jud Larson",
+    "szulev": 1923.01.21,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mike Magill",
+    "szulev": 1920.02.08,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Carroll Shelby",
+    "szulev": 1923.01.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Fritz d'Orey",
+    "szulev": 1938.03.25,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Azdrubal Fontes",
+    "szulev": 1922.12.26,
+    "nemzetiseg": "uruguayi"
+
+},
+{
+    "nev": "Peter Ashdown",
+    "szulev": 1934.10.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bill Moss",
+    "szulev": 1933.09.04,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Dennis Taylor",
+    "szulev": 1921.06.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Harry Blanchard",
+    "szulev": 1929.06.13,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Alessandro de Tomaso",
+    "szulev": 1928.07.10,
+    "nemzetiseg": "argentín-olasz"
+
+},
+{
+    "nev": "George Constantine",
+    "szulev": 1918.02.22,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bob Said",
+    "szulev": 1932.05.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Phil Cade",
+    "szulev": 1916.06.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Luigi Musso",
+    "szulev": 1924.07.28,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Mike Hawthorn",
+    "szulev": 1929.04.10,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Juan Fangio",
+    "szulev": 1911.06.24,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Paco Godia",
+    "szulev": 1921.03.21,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Peter Collins",
+    "szulev": 1931.11.06,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ken Kavanagh",
+    "szulev": 1923.12.12,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Gerino Gerini",
+    "szulev": 1928.08.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bruce Kessler",
+    "szulev": 1936.03.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Paul Emery",
+    "szulev": 1916.11.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Luigi Piotti",
+    "szulev": 1913.10.27,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bernie Ecclestone",
+    "szulev": 1930.10.28,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Luigi Taramazzo",
+    "szulev": 1932.05.05,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Louis Chiron",
+    "szulev": 1899.08.03,
+    "nemzetiseg": "monacói "
+
+},
+{
+    "nev": "Stuart Lewis-Evans",
+    "szulev": 1930.04.20,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "George Amick",
+    "szulev": 1924.10.24,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jimmy Reece",
+    "szulev": 1929.11.17,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnnie Parsons",
+    "szulev": 1918.07.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnnie Tolan",
+    "szulev": 1917.10.22,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Billy Garrett",
+    "szulev": 1933.04.24,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ed Elisian",
+    "szulev": 1926.12.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Pat O'Connor",
+    "szulev": 1928.10.09,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jerry Unser",
+    "szulev": 1932.11.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Art Bisch",
+    "szulev": 1926.11.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Christian Goethals",
+    "szulev": 1928.08.04,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Dick Gibson",
+    "szulev": 1918.04.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Robert La Caze",
+    "szulev": 1917.02.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "André Guelfi",
+    "szulev": 1919.05.06,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "François Picard",
+    "szulev": 1921.04.26,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Tom Bridger",
+    "szulev": 1934.06.24,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alfonso de Portago",
+    "szulev": 1928.10.11,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Cesare Perdisa",
+    "szulev": 1932.10.21,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Eugenio Castellotti",
+    "szulev": 1930.10.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "André Simon",
+    "szulev": 1920.01.05,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Les Leston",
+    "szulev": 1920.12.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Sam Hanks",
+    "szulev": 1914.07.13,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Andy Linden",
+    "szulev": 1922.04.05,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Marshall Teague",
+    "szulev": 1921.02.22,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Don Edmunds",
+    "szulev": 1930.09.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Fred Agabashian",
+    "szulev": 1913.08.21,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Elmer George",
+    "szulev": 1928.07.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mike MacDowel",
+    "szulev": 1932.09.13,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Herbert MacKay-Fraser",
+    "szulev": 1927.06.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bob Gerard",
+    "szulev": 1914.01.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Umberto Maglioli",
+    "szulev": 1928.06.05,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Paul England",
+    "szulev": 1929.03.28,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Chico Landi",
+    "szulev": 1907.07.14,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Alberto Uria",
+    "szulev": 1924.07.11,
+    "nemzetiseg": "uruguayi"
+
+},
+{
+    "nev": "Hernando da Silva Ramos",
+    "szulev": 1925.12.07,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Élie Bayol",
+    "szulev": 1914.02.28,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Robert Manzon",
+    "szulev": 1917.04.12,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Louis Rosier",
+    "szulev": 1905.11.05,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Bob Sweikert",
+    "szulev": 1926.05.20,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Cliff Griffith",
+    "szulev": 1916.02.06,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Duke Dinsmore",
+    "szulev": 1913.04.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Keith Andrews",
+    "szulev": 1920.06.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Paul Frere",
+    "szulev": 1917.01.30,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Luigi Villoresi",
+    "szulev": 1909.05.16,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Piero Scotti",
+    "szulev": 1909.11.11,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Colin Chapman",
+    "szulev": 1928.05.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Desmond Titterington",
+    "szulev": 1928.05.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Archie Scott Brown",
+    "szulev": 1927.05.13,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ottorino Volonterio",
+    "szulev": 1917.12.07,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "André Milhoux",
+    "szulev": 1928.12.09,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Toulo de Graffenried",
+    "szulev": 1914.05.18,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Piero Taruffi",
+    "szulev": 1906.10.12,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Nino Farina",
+    "szulev": 1906.10.30,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Roberto Mieres",
+    "szulev": 1924.12.03,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Sergio Mantovani",
+    "szulev": 1929.05.22,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Clemar Bucci",
+    "szulev": 1920.09.04,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Jesús Iglesias",
+    "szulev": 1922.02.22,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Alberto Ascari",
+    "szulev": 1918.07.13,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Karl Kling",
+    "szulev": 1910.09.16,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Pablo Birger",
+    "szulev": 1924.01.07,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Jacques Pollet",
+    "szulev": 1922.07.02,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Lance Macklin",
+    "szulev": 1919.09.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ted Whiteaway",
+    "szulev": 1928.11.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jimmy Davies",
+    "szulev": 1929.08.08,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Walt Faulkner",
+    "szulev": 1920.02.16,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Cal Niday",
+    "szulev": 1914.04.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Art Cross",
+    "szulev": 1918.01.24,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Vukovich",
+    "szulev": 1918.12.13,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jack McGrath",
+    "szulev": 1919.10.08,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jerry Hoyt",
+    "szulev": 1929.01.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnny Claes",
+    "szulev": 1916.08.11,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Peter Walker",
+    "szulev": 1912.10.07,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Mike Sparken",
+    "szulev": 1930.06.16,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Ken Wharton",
+    "szulev": 1916.03.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Kenneth McAlpine",
+    "szulev": 1920.09.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Leslie Marr",
+    "szulev": 1922.08.14,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Tony Rolt",
+    "szulev": 1918.10.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John Fitch",
+    "szulev": 1917.08.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jean Lucas",
+    "szulev": 1917.04.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Prince Bira",
+    "szulev": 1914.07.15,
+    "nemzetiseg": "thai"
+
+},
+{
+    "nev": "Onofre Marimón",
+    "szulev": 1923.12.19,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Roger Loyer",
+    "szulev": 1907.08.05,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Jorge Daponte",
+    "szulev": 1923.06.05,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Mike Nazaruk",
+    "szulev": 1921.10.02,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Larry Crockett",
+    "szulev": 1926.10.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Manny Ayulo",
+    "szulev": 1921.10.20,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Frank Armi",
+    "szulev": 1918.10.12,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Travis Webb",
+    "szulev": 1910.10.08,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Len Duncan",
+    "szulev": 1911.07.25,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Ernie McCoy",
+    "szulev": 1921.02.19,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jacques Swaters",
+    "szulev": 1926.10.30,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Georges Berger",
+    "szulev": 1918.09.14,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Don Beauman",
+    "szulev": 1928.07.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Leslie Thorne",
+    "szulev": 1916.06.23,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Bill Whitehouse",
+    "szulev": 1909.04.01,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John Riseley-Prichard",
+    "szulev": 1924.01.17,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Reg Parnell",
+    "szulev": 1911.07.02,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Peter Whitehead",
+    "szulev": 1914.11.12,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Eric Brandon",
+    "szulev": 1920.07.18,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Alan Brown",
+    "szulev": 1919.11.20,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Rodney Nuckey",
+    "szulev": 1929.06.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Hermann Lang",
+    "szulev": 1909.04.06,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Theo Helfrich",
+    "szulev": 1913.05.13,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Fred Wacker",
+    "szulev": 1918.07.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Giovanni de Riu",
+    "szulev": 1925.03.10,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Oscar Gálvez",
+    "szulev": 1913.08.17,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "John Barber",
+    "szulev": 1929.07.22,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Felice Bonetto",
+    "szulev": 1903.06.09,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Adolfo Cruz",
+    "szulev": 1923.06.28,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Duke Nalon",
+    "szulev": 1913.03.02,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Carl Scarborough",
+    "szulev": 1914.07.03,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Holland",
+    "szulev": 1907.12.18,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bob Scott",
+    "szulev": 1928.10.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Arthur Legat",
+    "szulev": 1898.11.01,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Yves Cabantous",
+    "szulev": 1904.10.08,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Tony Crook",
+    "szulev": 1920.02.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Jimmy Stewart",
+    "szulev": 1931.03.06,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ian Stewart",
+    "szulev": 1929.07.15,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Duncan Hamilton",
+    "szulev": 1920.04.30,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ernst Klodwig",
+    "szulev": 1903.05.23,
+    "nemzetiseg": "kelet-német"
+
+},
+{
+    "nev": "Rudolf Krause",
+    "szulev": 1907.03.30,
+    "nemzetiseg": "kelet-német"
+
+},
+{
+    "nev": "Oswald Karch",
+    "szulev": 1917.03.06,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Willi Heeks",
+    "szulev": 1922.02.13,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Theo Fitzau",
+    "szulev": 1923.02.10,
+    "nemzetiseg": "kelet-német"
+
+},
+{
+    "nev": "Kurt Adolff",
+    "szulev": 1921.11.05,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Günther Bechem",
+    "szulev": 1921.12.21,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Erwin Bauer",
+    "szulev": 1912.07.17,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Hans von Stuck",
+    "szulev": 1900.12.27,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Ernst Loof",
+    "szulev": 1907.07.04,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Albert Scherrer",
+    "szulev": 1908.02.28,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Max de Terra",
+    "szulev": 1918.10.06,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Peter Hirt",
+    "szulev": 1910.03.30,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Piero Carini",
+    "szulev": 1921.03.06,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Rudi Fischer",
+    "szulev": 1912.04.19,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Toni Ulmen",
+    "szulev": 1906.01.25,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "George Abecassis",
+    "szulev": 1913.03.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "George Connor",
+    "szulev": 1906.08.16,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jim Rigsby",
+    "szulev": 1923.06.06,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Joe James",
+    "szulev": 1925.05.23,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Schindler",
+    "szulev": 1909.03.06,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "George Fonder",
+    "szulev": 1917.06.22,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Henry Banks",
+    "szulev": 1913.06.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnny McDowell",
+    "szulev": 1915.01.29,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Chet Miller",
+    "szulev": 1902.07.19,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bobby Ball",
+    "szulev": 1925.08.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Charles de Tornaco",
+    "szulev": 1927.06.07,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Roger Laurent",
+    "szulev": 1913.02.21,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Robert O'Brien",
+    "szulev": 1908.04.11,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Tony Gaze",
+    "szulev": 1920.02.03,
+    "nemzetiseg": "ausztrál"
+
+},
+{
+    "nev": "Robin Montgomerie-Charrington",
+    "szulev": 1915.06.23,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Franco Comotti",
+    "szulev": 1906.07.24,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Philippe Étancelin",
+    "szulev": 1896.12.28,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Dennis Poore",
+    "szulev": 1916.08.19,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Eric Thompson",
+    "szulev": 1919.11.04,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Ken Downing",
+    "szulev": 1917.12.05,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Graham Whitehead",
+    "szulev": 1922.04.15,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Gino Bianco",
+    "szulev": 1916.07.22,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "David Murray",
+    "szulev": 1909.12.28,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Eitel Cantoni",
+    "szulev": 1906.10.04,
+    "nemzetiseg": "uruguayi"
+
+},
+{
+    "nev": "Bill Aston",
+    "szulev": 1900.03.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Adolf Brudes",
+    "szulev": 1899.10.15,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Fritz Riess",
+    "szulev": 1922.07.11,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Helmut Niedermayr",
+    "szulev": 1915.11.29,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Hans Klenk",
+    "szulev": 1919.10.28,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Marcel Balsa",
+    "szulev": 1909.01.01,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Rudolf Schoeller",
+    "szulev": 1902.04.27,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Paul Pietsch",
+    "szulev": 1911.06.20,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Josef Peters",
+    "szulev": 1914.09.16,
+    "nemzetiseg": "német"
+
+},
+{
+    "nev": "Dries van der Lof",
+    "szulev": 1919.08.23,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Jan Flinterman",
+    "szulev": 1919.10.02,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Piero Dusio",
+    "szulev": 1899.10.13,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Alberto Crespo",
+    "szulev": 1920.01.16,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Franco Rol",
+    "szulev": 1908.06.05,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Consalvo Sanesi",
+    "szulev": 1911.03.28,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Guy Mairesse",
+    "szulev": 1910.08.10,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Henri Louveau",
+    "szulev": 1910.01.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Lee Wallard",
+    "szulev": 1910.09.07,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Carl Forberg",
+    "szulev": 1911.03.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mauri Rose",
+    "szulev": 1906.05.26,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bill Mackey",
+    "szulev": 1927.12.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Cecil Green",
+    "szulev": 1919.09.30,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Walt Brown",
+    "szulev": 1911.12.30,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Mack Hellings",
+    "szulev": 1915.09.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Pierre Levegh",
+    "szulev": 1905.12.22,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Eugene Chaboud",
+    "szulev": 1907.04.12,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Aldo Gordini",
+    "szulev": 1921.05.20,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Joe Kelly",
+    "szulev": 1913.03.13,
+    "nemzetiseg": "ír"
+
+},
+{
+    "nev": "Philip Fotheringham-Parker",
+    "szulev": 1907.09.22,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Brian Shawe Taylor",
+    "szulev": 1915.01.28,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "John James",
+    "szulev": 1914.05.10,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Toni Branca",
+    "szulev": 1916.09.15,
+    "nemzetiseg": "svájci"
+
+},
+{
+    "nev": "Ken Richardson",
+    "szulev": 1911.08.21,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Juan Jover",
+    "szulev": 1903.11.23,
+    "nemzetiseg": "spanyol"
+
+},
+{
+    "nev": "Georges Grignard",
+    "szulev": 1905.07.25,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "David Hampshire",
+    "szulev": 1917.12.29,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Geoff Crossley",
+    "szulev": 1921.05.11,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Luigi Fagioli",
+    "szulev": 1898.06.09,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Cuth Harrison",
+    "szulev": 1906.07.06,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Joe Fry",
+    "szulev": 1915.10.26,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Eugene Martin",
+    "szulev": 1915.03.24,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Leslie Johnson",
+    "szulev": 1912.03.22,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Clemente Biondetti",
+    "szulev": 1898.08.18,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Alfredo Pián",
+    "szulev": 1912.10.21,
+    "nemzetiseg": "argentín"
+
+},
+{
+    "nev": "Raymond Sommer",
+    "szulev": 1906.08.31,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Joie Chitwood",
+    "szulev": 1912.04.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Myron Fohr",
+    "szulev": 1912.06.17,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Walt Ader",
+    "szulev": 1913.12.15,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jackie Holmes",
+    "szulev": 1920.09.04,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Bayliss Levrett",
+    "szulev": 1914.02.14,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Jimmy Jackson",
+    "szulev": 1910.07.25,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Nello Pagani",
+    "szulev": 1911.10.11,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Charles Pozzi",
+    "szulev": 1909.08.27,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Dorino Serafini",
+    "szulev": 1909.07.22,
+    "nemzetiseg": "olasz"
+
+},
+{
+    "nev": "Bill Cantrell",
+    "szulev": 1908.01.31,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Johnny Mantz",
+    "szulev": 1918.09.18,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Danny Kladis",
+    "szulev": 1917.02.10,
+    "nemzetiseg": "amerikai"
+
+},
+{
+    "nev": "Óscar González",
+    "szulev": 1923.11.10,
+    "nemzetiseg": "uruguayi"
+
+},
+{
+    "nev": "Nico Hülkenberg",
+    "szulev": 1987.08.19,
+    "nemzetiseg": "német",
+    "rajtszam": 27
+
+},
+{
+    "nev": "Vitaly Petrov",
+    "szulev": 1984.09.08,
+    "nemzetiseg": "orosz"
+
+},
+{
+    "nev": "Lucas di Grassi",
+    "szulev": 1984.08.11,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Bruno Senna",
+    "szulev": 1983.10.15,
+    "nemzetiseg": "brazíl"
+
+},
+{
+    "nev": "Karun Chandhok",
+    "szulev": 1984.01.19,
+    "nemzetiseg": "indiai"
+
+},
+{
+    "nev": "Pastor Maldonado",
+    "szulev": 1985.03.09,
+    "nemzetiseg": "venezuelai",
+    "rajtszam": 13
+
+},
+{
+    "nev": "Paul di Resta",
+    "szulev": 1986.04.16,
+    "nemzetiseg": "brit"
+
+},
+{
+    "nev": "Sergio Pérez",
+    "szulev": 1990.01.26,
+    "nemzetiseg": "mexikói",
+    "rajtszam": 11
+
+},
+{
+    "nev": "Jérôme d'Ambrosio",
+    "szulev": 1985.12.27,
+    "nemzetiseg": "belga"
+
+},
+{
+    "nev": "Daniel Ricciardo",
+    "szulev": 1989.07.01,
+    "nemzetiseg": "ausztrál",
+    "rajtszam": 3
+
+},
+{
+    "nev": "Jean-Éric Vergne",
+    "szulev": 1990.04.25,
+    "nemzetiseg": "francia",
+    "rajtszam": 25
+
+},
+{
+    "nev": "Charles Pic",
+    "szulev": 1990.02.15,
+    "nemzetiseg": "francia"
+
+},
+{
+    "nev": "Max Chilton",
+    "szulev": 1991.04.21,
+    "nemzetiseg": "brit",
+    "rajtszam": 4
+
+},
+{
+    "nev": "Esteban Gutiérrez",
+    "szulev": 1991.08.05,
+    "nemzetiseg": "mexikói",
+    "rajtszam": 21
+
+},
+{
+    "nev": "Valtteri Bottas",
+    "szulev": 1989.08.28,
+    "nemzetiseg": "finn",
+    "rajtszam": 77
+
+},
+{
+    "nev": "Giedo van der Garde",
+    "szulev": 1985.04.25,
+    "nemzetiseg": "holland"
+
+},
+{
+    "nev": "Jules Bianchi",
+    "szulev": 1989.08.03,
+    "nemzetiseg": "francia",
+    "rajtszam": 17
+
+},
+{
+    "nev": "Kevin Magnussen",
+    "szulev": 1992.10.05,
+    "nemzetiseg": "dán",
+    "rajtszam": 20
+
+},
+{
+    "nev": "Daniil Kvyat",
+    "szulev": 1994.04.26,
+    "nemzetiseg": "orosz",
+    "rajtszam": 26
+
+},
+{
+    "nev": "André Lotterer",
+    "szulev": 1981.11.19,
+    "nemzetiseg": "német",
+    "rajtszam": 45
+
+},
+{
+    "nev": "Marcus Ericsson",
+    "szulev": 1990.09.02,
+    "nemzetiseg": "svéd",
+    "rajtszam": 9
+
+},
+{
+    "nev": "Will Stevens",
+    "szulev": 1991.06.28,
+    "nemzetiseg": "brit",
+    "rajtszam": 28
+
+},
+{
+    "nev": "Max Verstappen",
+    "szulev": 1997.09.30,
+    "nemzetiseg": "holland",
+    "rajtszam": 33
+
+},
+{
+    "nev": "Felipe Nasr",
+    "szulev": 1992.08.21,
+    "nemzetiseg": "brazíl",
+    "rajtszam": 12
+
+},
+{
+    "nev": "Carlos Sainz",
+    "szulev": 1994.09.01,
+    "nemzetiseg": "spanyol",
+    "rajtszam": 55
+
+},
+{
+    "nev": "Roberto Merhi",
+    "szulev": 1991.03.22,
+    "nemzetiseg": "spanyol",
+    "rajtszam": 98
+
+},
+{
+    "nev": "Alexander Rossi",
+    "szulev": 1991.09.25,
+    "nemzetiseg": "amerikai",
+    "rajtszam": 53
+
+},
+{
+    "nev": "Jolyon Palmer",
+    "szulev": 1991.01.20,
+    "nemzetiseg": "brit",
+    "rajtszam": 30
+
+},
+{
+    "nev": "Pascal Wehrlein",
+    "szulev": 1994.10.18,
+    "nemzetiseg": "német",
+    "rajtszam": 94
+
+},
+{
+    "nev": "Rio Haryanto",
+    "szulev": 1993.01.22,
+    "nemzetiseg": "indonéz",
+    "rajtszam": 88
+
+},
+{
+    "nev": "Stoffel Vandoorne",
+    "szulev": 1992.03.26,
+    "nemzetiseg": "belga",
+    "rajtszam": 2
+
+},
+{
+    "nev": "Esteban Ocon",
+    "szulev": 1996.09.17,
+    "nemzetiseg": "francia",
+    "rajtszam": 31
+
+},
+{
+    "nev": "Lance Stroll",
+    "szulev": 1998.10.29,
+    "nemzetiseg": "kanadai",
+    "rajtszam": 18
+
+},
+{
+    "nev": "Antonio Giovinazzi",
+    "szulev": 1993.12.14,
+    "nemzetiseg": "olasz",
+    "rajtszam": 99
+
+},
+{
+    "nev": "Brendon Hartley",
+    "szulev": 1989.11.10,
+    "nemzetiseg": "új-zélandi",
+    "rajtszam": 28
+
+},
+{
+    "nev": "Charles Leclerc",
+    "szulev": 1997.10.16,
+    "nemzetiseg": "monacói",
+    "rajtszam": 16
+
+},
+{
+    "nev": "Sergey Sirotkin",
+    "szulev": 1995.08.27,
+    "nemzetiseg": "orosz",
+    "rajtszam": 35
+
+},
+{
+    "nev": "Lando Norris",
+    "szulev": 1999.11.13,
+    "nemzetiseg": "brit",
+    "rajtszam": 4
+
+},
+{
+    "nev": "George Russell",
+    "szulev": 1998.02.15,
+    "nemzetiseg": "brit",
+    "rajtszam": 63
+
+},
+{
+    "nev": "Alexander Albon",
+    "szulev": 1996.03.23,
+    "nemzetiseg": "thai",
+    "rajtszam": 23
+
+}
+]
